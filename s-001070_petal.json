@@ -1,0 +1,4502 @@
+[
+    {
+        "age":6.7364897885,
+        "height":273.1472852519,
+        "soil_quality":4.9104143134,
+        "petal_colour":"white",
+        "petal_size":4.8137075568,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1861030297,
+        "height":31.0364241493,
+        "soil_quality":3.1339868201,
+        "petal_colour":"white",
+        "petal_size":2.7862816564,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.2481673509,
+        "height":153.6727101243,
+        "soil_quality":4.3146119342,
+        "petal_colour":"white",
+        "petal_size":3.8749448595,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.387968689,
+        "height":18.677106567,
+        "soil_quality":5.9165977918,
+        "petal_colour":"white",
+        "petal_size":5.5842810536,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.8629182053,
+        "height":231.5410202007,
+        "soil_quality":5.5622666089,
+        "petal_colour":"white",
+        "petal_size":3.4355921871,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.1990995378,
+        "height":34.9489350103,
+        "soil_quality":4.4670272149,
+        "petal_colour":"pink",
+        "petal_size":3.1646784541,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.5535771073,
+        "height":117.7734986458,
+        "soil_quality":5.7738069896,
+        "petal_colour":"pink",
+        "petal_size":4.0282911859,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.3960314025,
+        "height":6.499853777,
+        "soil_quality":3.7616940144,
+        "petal_colour":"white",
+        "petal_size":2.3893159569,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3723852445,
+        "height":216.9168512066,
+        "soil_quality":4.7040610811,
+        "petal_colour":"white",
+        "petal_size":4.1146313061,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.2705642967,
+        "height":123.6139928617,
+        "soil_quality":5.0049318982,
+        "petal_colour":"white",
+        "petal_size":3.5484518744,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.604780562,
+        "height":325.883795808,
+        "soil_quality":4.4076388855,
+        "petal_colour":"white",
+        "petal_size":4.2044310884,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.2485877008,
+        "height":106.5650354867,
+        "soil_quality":5.3033406482,
+        "petal_colour":"pink",
+        "petal_size":2.0186714174,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.8293771729,
+        "height":83.3467186316,
+        "soil_quality":4.3626323518,
+        "petal_colour":"pink",
+        "petal_size":1.4019410677,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1485318671,
+        "height":1.7276006689,
+        "soil_quality":4.7389408387,
+        "petal_colour":"pink",
+        "petal_size":3.0561246118,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.0272801833,
+        "height":87.039424161,
+        "soil_quality":4.1528443684,
+        "petal_colour":"white",
+        "petal_size":3.0210394913,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2453290749,
+        "height":182.0730838731,
+        "soil_quality":3.2437024859,
+        "petal_colour":"white",
+        "petal_size":2.8786889287,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.5737408296,
+        "height":23.2105588963,
+        "soil_quality":4.6034877009,
+        "petal_colour":"pink",
+        "petal_size":3.1335566864,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.7955770248,
+        "height":72.413254022,
+        "soil_quality":3.3658478345,
+        "petal_colour":"pink",
+        "petal_size":1.406481435,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.1277748668,
+        "height":30.2461733479,
+        "soil_quality":4.9878638725,
+        "petal_colour":"white",
+        "petal_size":4.6813069849,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.4914003795,
+        "height":18.9554278097,
+        "soil_quality":5.3343761575,
+        "petal_colour":"white",
+        "petal_size":5.4540893816,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.9299759138,
+        "height":134.086939227,
+        "soil_quality":4.8298527652,
+        "petal_colour":"white",
+        "petal_size":4.5647021573,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.3787589461,
+        "height":89.029243242,
+        "soil_quality":5.9775309429,
+        "petal_colour":"pink",
+        "petal_size":4.0755016503,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.6981941405,
+        "height":112.1520507614,
+        "soil_quality":5.9055895198,
+        "petal_colour":"pink",
+        "petal_size":1.6849564631,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.7343874889,
+        "height":96.6712646854,
+        "soil_quality":5.5100491142,
+        "petal_colour":"white",
+        "petal_size":3.5627606629,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.8058769057,
+        "height":108.0597980778,
+        "soil_quality":4.125433018,
+        "petal_colour":"white",
+        "petal_size":2.9017162641,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.6915551505,
+        "height":35.3784300168,
+        "soil_quality":3.4624855028,
+        "petal_colour":"white",
+        "petal_size":2.1381438786,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.0824793171,
+        "height":30.9387446365,
+        "soil_quality":5.4271550278,
+        "petal_colour":"pink",
+        "petal_size":3.9547324786,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.1478411744,
+        "height":279.0261418138,
+        "soil_quality":3.1244925394,
+        "petal_colour":"white",
+        "petal_size":2.7296754257,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.7795497025,
+        "height":74.8724038403,
+        "soil_quality":5.3596790189,
+        "petal_colour":"pink",
+        "petal_size":1.0593781843,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.4541050429,
+        "height":136.3209307597,
+        "soil_quality":4.4550997496,
+        "petal_colour":"white",
+        "petal_size":2.8620405936,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.9323135942,
+        "height":40.7238740347,
+        "soil_quality":4.6253947582,
+        "petal_colour":"pink",
+        "petal_size":1.5806846287,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.3666583303,
+        "height":69.898482206,
+        "soil_quality":3.681968031,
+        "petal_colour":"white",
+        "petal_size":3.4926768188,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.5005335866,
+        "height":103.2493666498,
+        "soil_quality":3.1501524736,
+        "petal_colour":"pink",
+        "petal_size":1.2363670786,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2761740594,
+        "height":65.4803375569,
+        "soil_quality":4.8447607416,
+        "petal_colour":"pink",
+        "petal_size":3.4765753632,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.8291120889,
+        "height":316.6706766847,
+        "soil_quality":4.410742538,
+        "petal_colour":"white",
+        "petal_size":4.2310152891,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.0466511218,
+        "height":218.155106448,
+        "soil_quality":5.5831816372,
+        "petal_colour":"white",
+        "petal_size":5.3407816516,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.2666230543,
+        "height":5.1656947102,
+        "soil_quality":5.1251282636,
+        "petal_colour":"pink",
+        "petal_size":1.6803887188,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.1895720786,
+        "height":150.7473801981,
+        "soil_quality":3.3320032291,
+        "petal_colour":"white",
+        "petal_size":2.0625146898,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2175232501,
+        "height":53.347463721,
+        "soil_quality":5.6431064996,
+        "petal_colour":"pink",
+        "petal_size":3.9397953704,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.0521330899,
+        "height":57.5089891553,
+        "soil_quality":4.3016451617,
+        "petal_colour":"white",
+        "petal_size":2.7148961346,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.7109684549,
+        "height":21.5932895805,
+        "soil_quality":5.9629564098,
+        "petal_colour":"pink",
+        "petal_size":3.7721825647,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.7629992646,
+        "height":98.33866811,
+        "soil_quality":5.5673052494,
+        "petal_colour":"pink",
+        "petal_size":4.2563615996,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.0055046783,
+        "height":98.320008988,
+        "soil_quality":4.571213537,
+        "petal_colour":"white",
+        "petal_size":4.2744277403,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6470046258,
+        "height":81.4483351443,
+        "soil_quality":3.4200156931,
+        "petal_colour":"white",
+        "petal_size":2.0510375273,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.0096338971,
+        "height":61.4755713463,
+        "soil_quality":3.8540544064,
+        "petal_colour":"pink",
+        "petal_size":1.2576952195,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.7691860083,
+        "height":248.9228688479,
+        "soil_quality":3.7264528872,
+        "petal_colour":"white",
+        "petal_size":3.4959345334,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.4675155125,
+        "height":59.0397065521,
+        "soil_quality":4.0652329897,
+        "petal_colour":"pink",
+        "petal_size":2.6645176605,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.6073396501,
+        "height":192.8012085122,
+        "soil_quality":4.6770715823,
+        "petal_colour":"white",
+        "petal_size":4.6005261754,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.3928047052,
+        "height":38.038076342,
+        "soil_quality":3.0641615297,
+        "petal_colour":"pink",
+        "petal_size":1.2164525476,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.3694838192,
+        "height":111.1694860771,
+        "soil_quality":3.6565279156,
+        "petal_colour":"white",
+        "petal_size":2.1393385429,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.5457000146,
+        "height":45.3014225351,
+        "soil_quality":3.6377507876,
+        "petal_colour":"pink",
+        "petal_size":2.6020370352,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.350796816,
+        "height":120.4196928931,
+        "soil_quality":5.0497068015,
+        "petal_colour":"pink",
+        "petal_size":1.6205243578,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.6352215775,
+        "height":100.3252980717,
+        "soil_quality":4.0003537624,
+        "petal_colour":"white",
+        "petal_size":2.5980138889,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.0626769262,
+        "height":162.9232335351,
+        "soil_quality":3.5907878256,
+        "petal_colour":"white",
+        "petal_size":2.25196945,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.6831913979,
+        "height":40.8142877114,
+        "soil_quality":5.9200225443,
+        "petal_colour":"pink",
+        "petal_size":4.3549709909,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.3267260381,
+        "height":310.0387114701,
+        "soil_quality":5.6339159501,
+        "petal_colour":"white",
+        "petal_size":5.5311477992,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.5102054689,
+        "height":131.5280645176,
+        "soil_quality":5.0843385534,
+        "petal_colour":"pink",
+        "petal_size":1.716506654,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1194405351,
+        "height":3.1166575903,
+        "soil_quality":5.9382585499,
+        "petal_colour":"pink",
+        "petal_size":1.8884142139,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.9868182479,
+        "height":53.5983965295,
+        "soil_quality":5.8814133611,
+        "petal_colour":"white",
+        "petal_size":4.0318278427,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.2968618636,
+        "height":76.1212892603,
+        "soil_quality":3.2674632141,
+        "petal_colour":"white",
+        "petal_size":3.1545279751,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.4114801519,
+        "height":76.3849514149,
+        "soil_quality":5.0528246277,
+        "petal_colour":"white",
+        "petal_size":4.871431144,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.621048209,
+        "height":85.7743922237,
+        "soil_quality":3.1613513336,
+        "petal_colour":"white",
+        "petal_size":1.9875979602,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.3651250272,
+        "height":202.4023206818,
+        "soil_quality":5.4763540305,
+        "petal_colour":"pink",
+        "petal_size":1.8970318747,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.9511904016,
+        "height":52.4912164437,
+        "soil_quality":4.1116828797,
+        "petal_colour":"pink",
+        "petal_size":2.9380452844,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.1953659383,
+        "height":265.4746710003,
+        "soil_quality":3.989831027,
+        "petal_colour":"white",
+        "petal_size":3.7640477137,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0140545478,
+        "height":66.3869335143,
+        "soil_quality":3.4260005996,
+        "petal_colour":"pink",
+        "petal_size":2.4319553572,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.7875774734,
+        "height":442.093789617,
+        "soil_quality":5.355190077,
+        "petal_colour":"white",
+        "petal_size":5.0417793263,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.7117173164,
+        "height":18.8077149811,
+        "soil_quality":4.2775262382,
+        "petal_colour":"pink",
+        "petal_size":3.2364575886,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9082096661,
+        "height":100.9152753568,
+        "soil_quality":5.0190401578,
+        "petal_colour":"pink",
+        "petal_size":1.4971597919,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.6997071023,
+        "height":85.8426085913,
+        "soil_quality":3.8108786943,
+        "petal_colour":"pink",
+        "petal_size":2.6328369586,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.1068574125,
+        "height":75.152462618,
+        "soil_quality":4.918758143,
+        "petal_colour":"pink",
+        "petal_size":3.5714743191,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.4827303357,
+        "height":221.2413256659,
+        "soil_quality":4.0146254585,
+        "petal_colour":"white",
+        "petal_size":4.4925805529,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.0036464481,
+        "height":60.7830684454,
+        "soil_quality":4.6753373424,
+        "petal_colour":"white",
+        "petal_size":2.9259813462,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.0473972267,
+        "height":41.2969311237,
+        "soil_quality":5.989703991,
+        "petal_colour":"white",
+        "petal_size":3.7719119786,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.9616392711,
+        "height":50.7703902985,
+        "soil_quality":5.5177132924,
+        "petal_colour":"white",
+        "petal_size":3.5339047295,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.736962092,
+        "height":162.5347638264,
+        "soil_quality":4.7500552829,
+        "petal_colour":"pink",
+        "petal_size":1.6885035736,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.6705747188,
+        "height":61.3997014362,
+        "soil_quality":4.5161202786,
+        "petal_colour":"white",
+        "petal_size":4.1998297339,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.3156393807,
+        "height":196.9909075724,
+        "soil_quality":5.8020675954,
+        "petal_colour":"white",
+        "petal_size":3.821585815,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.0976279027,
+        "height":27.1681466253,
+        "soil_quality":3.3203203561,
+        "petal_colour":"white",
+        "petal_size":3.0304342135,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.3080053533,
+        "height":26.2054660591,
+        "soil_quality":4.5309285851,
+        "petal_colour":"pink",
+        "petal_size":1.457877499,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.531338071,
+        "height":175.9300808188,
+        "soil_quality":5.4641015569,
+        "petal_colour":"pink",
+        "petal_size":2.0221136585,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.8766772562,
+        "height":21.6346785957,
+        "soil_quality":5.9358528244,
+        "petal_colour":"white",
+        "petal_size":5.665698893,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.952967673,
+        "height":46.0221224039,
+        "soil_quality":3.3125290022,
+        "petal_colour":"white",
+        "petal_size":2.4103367543,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.5887649271,
+        "height":88.9983172779,
+        "soil_quality":3.5255077726,
+        "petal_colour":"white",
+        "petal_size":2.3513760126,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.9338679044,
+        "height":55.6664127148,
+        "soil_quality":3.6675715312,
+        "petal_colour":"white",
+        "petal_size":2.224352295,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.3258273414,
+        "height":17.7314535301,
+        "soil_quality":3.6878828729,
+        "petal_colour":"white",
+        "petal_size":2.1626241259,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.2463990271,
+        "height":127.2811508493,
+        "soil_quality":3.1972302017,
+        "petal_colour":"pink",
+        "petal_size":1.2378039978,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.0738042297,
+        "height":149.7743019304,
+        "soil_quality":5.6223385574,
+        "petal_colour":"white",
+        "petal_size":3.4799610655,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.5336038324,
+        "height":86.2785736749,
+        "soil_quality":3.2891185377,
+        "petal_colour":"pink",
+        "petal_size":0.7913798451,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.7626823921,
+        "height":220.6719183825,
+        "soil_quality":3.9827729171,
+        "petal_colour":"white",
+        "petal_size":4.2210886339,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.2145785658,
+        "height":106.7334734183,
+        "soil_quality":4.3551461456,
+        "petal_colour":"pink",
+        "petal_size":2.5352784034,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.1802432792,
+        "height":134.6999475441,
+        "soil_quality":5.6132643924,
+        "petal_colour":"pink",
+        "petal_size":1.7295100026,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.223397028,
+        "height":248.4595212719,
+        "soil_quality":3.3890282057,
+        "petal_colour":"white",
+        "petal_size":3.112732821,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1946769027,
+        "height":10.2097457174,
+        "soil_quality":4.849155194,
+        "petal_colour":"white",
+        "petal_size":4.8051401565,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.6014520918,
+        "height":14.0730535026,
+        "soil_quality":5.8650975685,
+        "petal_colour":"pink",
+        "petal_size":1.9293667182,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.5852815151,
+        "height":66.3142005481,
+        "soil_quality":3.1393881321,
+        "petal_colour":"white",
+        "petal_size":2.1480956266,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.1247654115,
+        "height":19.1190987802,
+        "soil_quality":3.8337781914,
+        "petal_colour":"pink",
+        "petal_size":1.2166786593,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.0319551129,
+        "height":372.7118535685,
+        "soil_quality":4.7389185613,
+        "petal_colour":"white",
+        "petal_size":4.6826727752,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.4992912505,
+        "height":224.390906755,
+        "soil_quality":3.8036530074,
+        "petal_colour":"white",
+        "petal_size":2.3702396854,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.81760115,
+        "height":172.2144331959,
+        "soil_quality":5.6056144371,
+        "petal_colour":"white",
+        "petal_size":5.3126610611,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5414999116,
+        "height":150.286210848,
+        "soil_quality":3.1621450703,
+        "petal_colour":"white",
+        "petal_size":2.9313975225,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.0743107647,
+        "height":149.1704193661,
+        "soil_quality":3.6897066256,
+        "petal_colour":"white",
+        "petal_size":3.836558939,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.4532186634,
+        "height":30.4569782181,
+        "soil_quality":4.3170478823,
+        "petal_colour":"pink",
+        "petal_size":2.7120045658,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6670672616,
+        "height":164.0990028724,
+        "soil_quality":4.0074034954,
+        "petal_colour":"white",
+        "petal_size":4.2551728801,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.4026695909,
+        "height":26.6375350485,
+        "soil_quality":3.3967815927,
+        "petal_colour":"pink",
+        "petal_size":2.437429015,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.9854394258,
+        "height":38.8566057168,
+        "soil_quality":5.9249977144,
+        "petal_colour":"pink",
+        "petal_size":4.353619488,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.2505174762,
+        "height":98.1955670645,
+        "soil_quality":3.3710925151,
+        "petal_colour":"white",
+        "petal_size":3.3794156672,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.4717925213,
+        "height":191.5443435637,
+        "soil_quality":3.6218292706,
+        "petal_colour":"white",
+        "petal_size":3.6840254212,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.5661622045,
+        "height":109.4781144481,
+        "soil_quality":4.0875793686,
+        "petal_colour":"pink",
+        "petal_size":1.2200554338,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.9374380446,
+        "height":123.49749544,
+        "soil_quality":4.405557142,
+        "petal_colour":"pink",
+        "petal_size":1.0969571402,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1072532285,
+        "height":0.6131191038,
+        "soil_quality":4.8797154694,
+        "petal_colour":"pink",
+        "petal_size":3.3365532095,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.6160954893,
+        "height":44.3872502229,
+        "soil_quality":4.9935090655,
+        "petal_colour":"pink",
+        "petal_size":3.3654739313,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.5547241087,
+        "height":92.4251042042,
+        "soil_quality":3.6286827407,
+        "petal_colour":"white",
+        "petal_size":2.0764668311,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.5230965663,
+        "height":147.8332783827,
+        "soil_quality":5.5954750719,
+        "petal_colour":"pink",
+        "petal_size":1.899703976,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.020989883,
+        "height":108.1701173089,
+        "soil_quality":5.4569866222,
+        "petal_colour":"white",
+        "petal_size":4.9776664546,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.2578246425,
+        "height":19.9438255366,
+        "soil_quality":3.3002694838,
+        "petal_colour":"white",
+        "petal_size":2.0317630226,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.608741704,
+        "height":65.9317664416,
+        "soil_quality":4.2008247006,
+        "petal_colour":"pink",
+        "petal_size":2.8262116855,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4988121688,
+        "height":107.2518423676,
+        "soil_quality":3.1211697069,
+        "petal_colour":"white",
+        "petal_size":1.9266430511,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.3862685308,
+        "height":76.7318328645,
+        "soil_quality":5.3166077783,
+        "petal_colour":"white",
+        "petal_size":5.0578653549,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0130534918,
+        "height":45.3508341101,
+        "soil_quality":3.5434729068,
+        "petal_colour":"pink",
+        "petal_size":2.2536456257,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.8420055562,
+        "height":12.7300795328,
+        "soil_quality":3.0954210572,
+        "petal_colour":"pink",
+        "petal_size":1.1853770859,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.8188385936,
+        "height":111.2685835017,
+        "soil_quality":5.6031932194,
+        "petal_colour":"pink",
+        "petal_size":2.0452399193,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3176564838,
+        "height":46.4942588689,
+        "soil_quality":4.7326343283,
+        "petal_colour":"white",
+        "petal_size":4.6214256657,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.4577686857,
+        "height":31.5289496323,
+        "soil_quality":3.0600491795,
+        "petal_colour":"white",
+        "petal_size":3.0965488176,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.104568413,
+        "height":140.96668969,
+        "soil_quality":5.191699516,
+        "petal_colour":"white",
+        "petal_size":3.3867944678,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.5689456797,
+        "height":14.0502161142,
+        "soil_quality":4.7141771311,
+        "petal_colour":"white",
+        "petal_size":4.7979496519,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.4821357006,
+        "height":226.1681029923,
+        "soil_quality":4.7425092622,
+        "petal_colour":"white",
+        "petal_size":4.5040125161,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.1768240344,
+        "height":197.7622296478,
+        "soil_quality":4.4653992462,
+        "petal_colour":"white",
+        "petal_size":4.3972669009,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.9470105088,
+        "height":47.1241327069,
+        "soil_quality":5.3832178719,
+        "petal_colour":"pink",
+        "petal_size":1.6404898208,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.2733099278,
+        "height":62.9050249383,
+        "soil_quality":3.6823528009,
+        "petal_colour":"white",
+        "petal_size":3.5234850927,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.0109619028,
+        "height":139.6673668357,
+        "soil_quality":4.0202012381,
+        "petal_colour":"white",
+        "petal_size":2.6239371232,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.0893345002,
+        "height":330.2378822791,
+        "soil_quality":4.5468907023,
+        "petal_colour":"white",
+        "petal_size":4.781885626,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.0516193457,
+        "height":553.2838211507,
+        "soil_quality":5.8804166775,
+        "petal_colour":"white",
+        "petal_size":5.4365336067,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.4149268187,
+        "height":102.778101232,
+        "soil_quality":3.0424491136,
+        "petal_colour":"white",
+        "petal_size":2.9000280275,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0045461425,
+        "height":172.4140343454,
+        "soil_quality":3.7505136824,
+        "petal_colour":"white",
+        "petal_size":3.5564606789,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6236265175,
+        "height":176.801804391,
+        "soil_quality":4.509735748,
+        "petal_colour":"white",
+        "petal_size":4.2563362999,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.5499671184,
+        "height":54.5559304001,
+        "soil_quality":4.4192988278,
+        "petal_colour":"pink",
+        "petal_size":2.9644790025,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.3806052446,
+        "height":252.273968032,
+        "soil_quality":4.8979159964,
+        "petal_colour":"white",
+        "petal_size":3.2514368947,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.9640690287,
+        "height":36.1134131224,
+        "soil_quality":4.8454595143,
+        "petal_colour":"pink",
+        "petal_size":1.4094041768,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.8629597629,
+        "height":286.4767079942,
+        "soil_quality":4.8511407358,
+        "petal_colour":"white",
+        "petal_size":4.6616175419,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.2070215205,
+        "height":103.1911070311,
+        "soil_quality":5.0018927082,
+        "petal_colour":"pink",
+        "petal_size":1.5700846237,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.5810638537,
+        "height":113.3436454921,
+        "soil_quality":4.7652826109,
+        "petal_colour":"white",
+        "petal_size":3.014641444,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.0635240225,
+        "height":198.0659543966,
+        "soil_quality":3.2938151026,
+        "petal_colour":"white",
+        "petal_size":2.1380700173,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.0824019066,
+        "height":155.6091431094,
+        "soil_quality":5.4045782857,
+        "petal_colour":"white",
+        "petal_size":5.2011791426,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.0021175835,
+        "height":135.6227317369,
+        "soil_quality":5.1549072438,
+        "petal_colour":"white",
+        "petal_size":5.0267368913,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0602140288,
+        "height":319.1803683666,
+        "soil_quality":4.3582328315,
+        "petal_colour":"white",
+        "petal_size":3.9141109417,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0344501411,
+        "height":64.9486249626,
+        "soil_quality":3.5859691761,
+        "petal_colour":"white",
+        "petal_size":3.2987924446,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.8848590006,
+        "height":7.9722673614,
+        "soil_quality":4.1112846767,
+        "petal_colour":"pink",
+        "petal_size":3.0025213505,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3039291151,
+        "height":15.3792243627,
+        "soil_quality":4.6682604441,
+        "petal_colour":"pink",
+        "petal_size":1.2230546658,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.888977203,
+        "height":54.0725819161,
+        "soil_quality":3.2410147468,
+        "petal_colour":"white",
+        "petal_size":3.1270070477,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.6716084618,
+        "height":79.2303160686,
+        "soil_quality":5.1611858748,
+        "petal_colour":"pink",
+        "petal_size":1.8751465174,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.0188601471,
+        "height":225.8951225672,
+        "soil_quality":5.8670514874,
+        "petal_colour":"white",
+        "petal_size":5.7871752922,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.9193836596,
+        "height":95.2500077278,
+        "soil_quality":3.825079521,
+        "petal_colour":"white",
+        "petal_size":3.8576692086,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5513764212,
+        "height":119.5962917283,
+        "soil_quality":3.3985840969,
+        "petal_colour":"pink",
+        "petal_size":1.1386029345,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.9472927382,
+        "height":31.686337085,
+        "soil_quality":4.8190856827,
+        "petal_colour":"white",
+        "petal_size":4.1865982656,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.1855207551,
+        "height":61.5303164063,
+        "soil_quality":3.8119399375,
+        "petal_colour":"white",
+        "petal_size":2.0212016186,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.2636134299,
+        "height":232.6528754237,
+        "soil_quality":3.6632495422,
+        "petal_colour":"white",
+        "petal_size":3.4050580919,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.6803954705,
+        "height":93.0364504732,
+        "soil_quality":4.0114563187,
+        "petal_colour":"white",
+        "petal_size":4.0159816703,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2036404162,
+        "height":92.4351601763,
+        "soil_quality":4.5888528956,
+        "petal_colour":"pink",
+        "petal_size":1.7067956005,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.4318024659,
+        "height":126.2007178138,
+        "soil_quality":4.5194053134,
+        "petal_colour":"pink",
+        "petal_size":3.3440316927,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6395121805,
+        "height":94.9169017738,
+        "soil_quality":4.3058079172,
+        "petal_colour":"white",
+        "petal_size":2.5997704425,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.8350060736,
+        "height":287.7466219459,
+        "soil_quality":5.2629104642,
+        "petal_colour":"white",
+        "petal_size":5.0230185449,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3956170688,
+        "height":9.782500912,
+        "soil_quality":3.441181118,
+        "petal_colour":"pink",
+        "petal_size":2.1891961867,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.1466035002,
+        "height":155.4668460226,
+        "soil_quality":4.1438405609,
+        "petal_colour":"white",
+        "petal_size":4.0267235362,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.5896153582,
+        "height":118.6342081256,
+        "soil_quality":5.8965677998,
+        "petal_colour":"pink",
+        "petal_size":1.9082380303,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.2330672962,
+        "height":20.4086038018,
+        "soil_quality":5.3918844829,
+        "petal_colour":"pink",
+        "petal_size":1.503022025,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.644343886,
+        "height":257.7294113173,
+        "soil_quality":5.5651291802,
+        "petal_colour":"white",
+        "petal_size":5.2000114956,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.1971963048,
+        "height":82.0803993102,
+        "soil_quality":3.555423178,
+        "petal_colour":"white",
+        "petal_size":3.4174065271,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.3479381642,
+        "height":244.8523502666,
+        "soil_quality":3.6553688392,
+        "petal_colour":"white",
+        "petal_size":3.5344543531,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.8966967655,
+        "height":237.519646723,
+        "soil_quality":3.3326258363,
+        "petal_colour":"white",
+        "petal_size":3.4243117237,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0527117264,
+        "height":167.5190513886,
+        "soil_quality":4.3144620756,
+        "petal_colour":"white",
+        "petal_size":2.5246909397,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.4911525758,
+        "height":44.5337733269,
+        "soil_quality":5.9718212841,
+        "petal_colour":"white",
+        "petal_size":3.9830695877,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.9503652483,
+        "height":162.5530316798,
+        "soil_quality":3.6096465809,
+        "petal_colour":"white",
+        "petal_size":2.3869749285,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.7500010836,
+        "height":381.215106673,
+        "soil_quality":3.8224465795,
+        "petal_colour":"white",
+        "petal_size":3.9437111667,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.7690190089,
+        "height":124.2728196181,
+        "soil_quality":4.8568758523,
+        "petal_colour":"pink",
+        "petal_size":1.3098709009,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.9790651604,
+        "height":114.725719761,
+        "soil_quality":5.0117468139,
+        "petal_colour":"white",
+        "petal_size":3.064103235,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3718248895,
+        "height":85.8271698536,
+        "soil_quality":3.2032472462,
+        "petal_colour":"white",
+        "petal_size":2.3937459386,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.3739045791,
+        "height":126.5028515272,
+        "soil_quality":5.6195474359,
+        "petal_colour":"white",
+        "petal_size":5.6217313071,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.8265074275,
+        "height":98.071333695,
+        "soil_quality":5.2767932698,
+        "petal_colour":"pink",
+        "petal_size":3.6095112143,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6902605503,
+        "height":117.0276156265,
+        "soil_quality":4.1268894332,
+        "petal_colour":"white",
+        "petal_size":4.2718741335,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.1086782738,
+        "height":118.0567721443,
+        "soil_quality":4.595447819,
+        "petal_colour":"white",
+        "petal_size":2.8367474964,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.1465354354,
+        "height":98.77779375,
+        "soil_quality":5.7230068057,
+        "petal_colour":"white",
+        "petal_size":5.5267049379,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.044077884,
+        "height":29.0402878082,
+        "soil_quality":4.9709668518,
+        "petal_colour":"pink",
+        "petal_size":3.3326743617,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.9781521665,
+        "height":47.7692727942,
+        "soil_quality":4.2922884624,
+        "petal_colour":"pink",
+        "petal_size":2.9551651978,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.8951207326,
+        "height":40.7241512282,
+        "soil_quality":5.0832280918,
+        "petal_colour":"pink",
+        "petal_size":1.4724576095,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.0183430357,
+        "height":43.6606249007,
+        "soil_quality":3.0985245422,
+        "petal_colour":"pink",
+        "petal_size":2.3275282526,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.9785412816,
+        "height":197.6254946808,
+        "soil_quality":5.2958960812,
+        "petal_colour":"pink",
+        "petal_size":1.7260146809,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.7810142329,
+        "height":150.0425818756,
+        "soil_quality":3.9511691643,
+        "petal_colour":"pink",
+        "petal_size":1.0507802315,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.6835965476,
+        "height":363.8076667456,
+        "soil_quality":5.7799811083,
+        "petal_colour":"white",
+        "petal_size":5.6682184178,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.4727803687,
+        "height":5.2993967332,
+        "soil_quality":3.601145256,
+        "petal_colour":"pink",
+        "petal_size":2.1403260827,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.2629954513,
+        "height":8.0115428172,
+        "soil_quality":4.2179154775,
+        "petal_colour":"pink",
+        "petal_size":2.8017866695,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.8513035683,
+        "height":56.1061171617,
+        "soil_quality":3.0442977505,
+        "petal_colour":"white",
+        "petal_size":3.0709453228,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.1141779213,
+        "height":183.4075734032,
+        "soil_quality":5.9447530882,
+        "petal_colour":"pink",
+        "petal_size":3.9902311609,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9997549367,
+        "height":139.3890217009,
+        "soil_quality":3.1238004049,
+        "petal_colour":"white",
+        "petal_size":2.8259266508,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.6111465084,
+        "height":10.663172473,
+        "soil_quality":4.9101603451,
+        "petal_colour":"pink",
+        "petal_size":1.4577711656,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.9341054214,
+        "height":357.1106960008,
+        "soil_quality":4.3965235794,
+        "petal_colour":"white",
+        "petal_size":4.5365818756,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.8698730297,
+        "height":22.7548319247,
+        "soil_quality":3.103451395,
+        "petal_colour":"pink",
+        "petal_size":1.1036093943,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3185306051,
+        "height":10.9842343641,
+        "soil_quality":3.4702905177,
+        "petal_colour":"pink",
+        "petal_size":2.2374512134,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.951757519,
+        "height":41.368654881,
+        "soil_quality":3.3631262487,
+        "petal_colour":"pink",
+        "petal_size":2.5765794265,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.4836238318,
+        "height":68.8930322137,
+        "soil_quality":5.1837317573,
+        "petal_colour":"pink",
+        "petal_size":1.8019126314,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2910685236,
+        "height":173.0701828728,
+        "soil_quality":4.9715015513,
+        "petal_colour":"white",
+        "petal_size":4.4240324344,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.0196092231,
+        "height":34.2357017269,
+        "soil_quality":3.7511529891,
+        "petal_colour":"pink",
+        "petal_size":2.1977638909,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.4001010337,
+        "height":10.8219680931,
+        "soil_quality":5.3856959936,
+        "petal_colour":"white",
+        "petal_size":5.1228050934,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.6091474868,
+        "height":127.4595401864,
+        "soil_quality":4.1985942451,
+        "petal_colour":"pink",
+        "petal_size":1.4636528795,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.6241465172,
+        "height":174.2254394447,
+        "soil_quality":5.4614733362,
+        "petal_colour":"white",
+        "petal_size":5.4341465911,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0047055297,
+        "height":230.112579067,
+        "soil_quality":4.5083566527,
+        "petal_colour":"white",
+        "petal_size":4.3138126279,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.076371558,
+        "height":19.7181308536,
+        "soil_quality":5.7110932355,
+        "petal_colour":"pink",
+        "petal_size":4.0251266856,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.934495453,
+        "height":126.1429712499,
+        "soil_quality":5.0570593174,
+        "petal_colour":"white",
+        "petal_size":3.2729898319,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.01478447,
+        "height":81.6397894384,
+        "soil_quality":5.4524778962,
+        "petal_colour":"pink",
+        "petal_size":3.689990056,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.1163210118,
+        "height":33.2654628114,
+        "soil_quality":4.4491965773,
+        "petal_colour":"pink",
+        "petal_size":1.5605467986,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4284610296,
+        "height":70.29246669,
+        "soil_quality":3.3940323496,
+        "petal_colour":"white",
+        "petal_size":3.107733932,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1523644554,
+        "height":2.6879912111,
+        "soil_quality":5.3774699741,
+        "petal_colour":"white",
+        "petal_size":3.2899376622,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.951926564,
+        "height":283.8746855202,
+        "soil_quality":3.4544512905,
+        "petal_colour":"white",
+        "petal_size":3.2918636388,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.8396492693,
+        "height":23.2118136329,
+        "soil_quality":3.0967712478,
+        "petal_colour":"pink",
+        "petal_size":0.8163117965,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.9008712193,
+        "height":146.7277946086,
+        "soil_quality":3.226585372,
+        "petal_colour":"pink",
+        "petal_size":1.0955745256,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.7628366609,
+        "height":11.7820373632,
+        "soil_quality":5.9924971294,
+        "petal_colour":"pink",
+        "petal_size":1.9787959971,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.6281931168,
+        "height":20.3356412792,
+        "soil_quality":4.7069835837,
+        "petal_colour":"white",
+        "petal_size":4.3013227665,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.5815367866,
+        "height":26.0655830944,
+        "soil_quality":3.6320744122,
+        "petal_colour":"white",
+        "petal_size":2.4480891001,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3494906944,
+        "height":282.7372386695,
+        "soil_quality":4.4430501205,
+        "petal_colour":"white",
+        "petal_size":4.1897040203,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0580045689,
+        "height":90.004749918,
+        "soil_quality":4.4679484931,
+        "petal_colour":"pink",
+        "petal_size":3.5129532971,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.0636481275,
+        "height":40.1885704093,
+        "soil_quality":5.65680543,
+        "petal_colour":"white",
+        "petal_size":5.2288164556,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.4403244533,
+        "height":212.4640119808,
+        "soil_quality":5.9379747518,
+        "petal_colour":"white",
+        "petal_size":5.901483691,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.7134713496,
+        "height":101.5501490323,
+        "soil_quality":4.1581468408,
+        "petal_colour":"pink",
+        "petal_size":1.1724533852,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.6791370752,
+        "height":82.3150453918,
+        "soil_quality":3.036716814,
+        "petal_colour":"pink",
+        "petal_size":0.7794860021,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.4680872376,
+        "height":96.8381744443,
+        "soil_quality":5.0758460282,
+        "petal_colour":"pink",
+        "petal_size":1.5781335926,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.9767472186,
+        "height":110.4827882192,
+        "soil_quality":3.7024384537,
+        "petal_colour":"white",
+        "petal_size":2.6317316162,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3766326971,
+        "height":173.9632665182,
+        "soil_quality":3.5816664405,
+        "petal_colour":"white",
+        "petal_size":3.73115492,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.6200781678,
+        "height":252.7722188492,
+        "soil_quality":5.0479876879,
+        "petal_colour":"white",
+        "petal_size":5.2958052781,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5611914441,
+        "height":375.1879346545,
+        "soil_quality":4.88638881,
+        "petal_colour":"white",
+        "petal_size":4.3686083664,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0029533879,
+        "height":72.3236014052,
+        "soil_quality":5.6223326854,
+        "petal_colour":"pink",
+        "petal_size":4.2375172918,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.2882833359,
+        "height":87.2358309898,
+        "soil_quality":4.0715971981,
+        "petal_colour":"pink",
+        "petal_size":2.6407783697,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.7196925359,
+        "height":158.7804890214,
+        "soil_quality":4.5723139962,
+        "petal_colour":"pink",
+        "petal_size":1.5483798797,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.2959374197,
+        "height":30.517901802,
+        "soil_quality":3.6559050631,
+        "petal_colour":"white",
+        "petal_size":2.2744074221,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.6826419371,
+        "height":83.4997856648,
+        "soil_quality":4.4914970307,
+        "petal_colour":"white",
+        "petal_size":4.4365117619,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.9883433695,
+        "height":38.8280502546,
+        "soil_quality":5.1932460201,
+        "petal_colour":"pink",
+        "petal_size":3.6163853226,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.4030880632,
+        "height":107.9744041894,
+        "soil_quality":4.0029104214,
+        "petal_colour":"pink",
+        "petal_size":1.2828277983,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.5534982664,
+        "height":60.28186286,
+        "soil_quality":3.6286455453,
+        "petal_colour":"pink",
+        "petal_size":1.3171130317,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.8905727742,
+        "height":21.1391090357,
+        "soil_quality":5.0109654027,
+        "petal_colour":"pink",
+        "petal_size":1.6108929162,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.7343741938,
+        "height":49.6374554269,
+        "soil_quality":5.8566276592,
+        "petal_colour":"pink",
+        "petal_size":4.2386498495,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.6906758609,
+        "height":19.1098215411,
+        "soil_quality":5.2476610439,
+        "petal_colour":"white",
+        "petal_size":5.0683428607,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2617502859,
+        "height":109.8932051647,
+        "soil_quality":3.9710520048,
+        "petal_colour":"white",
+        "petal_size":3.7181589158,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.3471041094,
+        "height":181.2796921497,
+        "soil_quality":4.5125506152,
+        "petal_colour":"white",
+        "petal_size":2.968855303,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.7909961255,
+        "height":63.3144915567,
+        "soil_quality":5.5049006619,
+        "petal_colour":"pink",
+        "petal_size":2.0313347693,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.6055184266,
+        "height":94.6578196966,
+        "soil_quality":5.182736183,
+        "petal_colour":"pink",
+        "petal_size":3.743161256,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.7679839579,
+        "height":112.7684915012,
+        "soil_quality":4.263550292,
+        "petal_colour":"white",
+        "petal_size":3.7407037494,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.444659744,
+        "height":72.5737775845,
+        "soil_quality":5.6847461227,
+        "petal_colour":"pink",
+        "petal_size":4.0716001298,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.2590040651,
+        "height":48.4980986973,
+        "soil_quality":4.1032300775,
+        "petal_colour":"pink",
+        "petal_size":2.9026115746,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4368107402,
+        "height":142.1138149604,
+        "soil_quality":4.4541587417,
+        "petal_colour":"white",
+        "petal_size":2.7553736171,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.5729445489,
+        "height":16.8789821625,
+        "soil_quality":3.7731073838,
+        "petal_colour":"pink",
+        "petal_size":1.1482438387,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.6329294519,
+        "height":35.0835184535,
+        "soil_quality":4.8546083864,
+        "petal_colour":"pink",
+        "petal_size":3.4287431088,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.1575755368,
+        "height":407.4945817664,
+        "soil_quality":5.7451588438,
+        "petal_colour":"white",
+        "petal_size":5.6865498848,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.2667370005,
+        "height":310.8375248801,
+        "soil_quality":4.9854465578,
+        "petal_colour":"white",
+        "petal_size":4.8097318486,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9800013218,
+        "height":189.1596020716,
+        "soil_quality":4.4818125146,
+        "petal_colour":"white",
+        "petal_size":2.4918212979,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.9527103953,
+        "height":57.7674587792,
+        "soil_quality":3.8481321423,
+        "petal_colour":"white",
+        "petal_size":2.5894451017,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.1923053652,
+        "height":390.201072329,
+        "soil_quality":5.2097593506,
+        "petal_colour":"white",
+        "petal_size":4.9072818288,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.5657043066,
+        "height":33.6221579959,
+        "soil_quality":3.4237394285,
+        "petal_colour":"white",
+        "petal_size":2.3208953708,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.4200173115,
+        "height":25.1150923473,
+        "soil_quality":4.2353043847,
+        "petal_colour":"pink",
+        "petal_size":1.3157231193,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.642936388,
+        "height":126.0960538941,
+        "soil_quality":4.4276350736,
+        "petal_colour":"white",
+        "petal_size":4.0143546966,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.3140992245,
+        "height":192.7129369619,
+        "soil_quality":3.2866947853,
+        "petal_colour":"white",
+        "petal_size":3.3194179884,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.8677720253,
+        "height":41.1247232988,
+        "soil_quality":4.5031043342,
+        "petal_colour":"white",
+        "petal_size":4.1579471571,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.4132292281,
+        "height":36.5827908421,
+        "soil_quality":3.9192528892,
+        "petal_colour":"pink",
+        "petal_size":2.5454334924,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.0912063019,
+        "height":44.7271287778,
+        "soil_quality":4.3691821162,
+        "petal_colour":"white",
+        "petal_size":4.3489625233,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.0442026904,
+        "height":33.7217460242,
+        "soil_quality":3.6850221505,
+        "petal_colour":"white",
+        "petal_size":3.807852605,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.1141228704,
+        "height":167.3763435207,
+        "soil_quality":3.899076455,
+        "petal_colour":"white",
+        "petal_size":2.3393147405,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.1269128053,
+        "height":243.7581769858,
+        "soil_quality":4.0181598362,
+        "petal_colour":"white",
+        "petal_size":3.9952951334,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.5307986205,
+        "height":228.3790272706,
+        "soil_quality":4.6956084344,
+        "petal_colour":"white",
+        "petal_size":4.2589278766,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6898881086,
+        "height":179.3029815211,
+        "soil_quality":4.0190717688,
+        "petal_colour":"white",
+        "petal_size":4.0003139033,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.8130674072,
+        "height":84.2166134119,
+        "soil_quality":5.7081806788,
+        "petal_colour":"pink",
+        "petal_size":4.1265298525,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.0641239156,
+        "height":0.7678786186,
+        "soil_quality":4.4230487445,
+        "petal_colour":"pink",
+        "petal_size":3.0574409725,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.0840281489,
+        "height":22.3000497299,
+        "soil_quality":3.0170412503,
+        "petal_colour":"white",
+        "petal_size":3.0591295012,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2856690318,
+        "height":140.0095688052,
+        "soil_quality":3.123931538,
+        "petal_colour":"white",
+        "petal_size":3.143851541,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.7494657845,
+        "height":45.7322096293,
+        "soil_quality":3.2791199098,
+        "petal_colour":"pink",
+        "petal_size":0.8860441223,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.0784278246,
+        "height":43.1590116912,
+        "soil_quality":3.3110896611,
+        "petal_colour":"pink",
+        "petal_size":2.3803051119,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.7827048439,
+        "height":10.45696749,
+        "soil_quality":4.3796850049,
+        "petal_colour":"white",
+        "petal_size":2.8475898072,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.4042035822,
+        "height":17.0418172898,
+        "soil_quality":5.6994939503,
+        "petal_colour":"white",
+        "petal_size":5.4979775943,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.1439755809,
+        "height":89.2133092761,
+        "soil_quality":4.4108558538,
+        "petal_colour":"pink",
+        "petal_size":1.5978564463,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2990549715,
+        "height":123.7823577092,
+        "soil_quality":3.0778555831,
+        "petal_colour":"white",
+        "petal_size":2.7487100917,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.0430373915,
+        "height":171.4300103385,
+        "soil_quality":3.269658207,
+        "petal_colour":"white",
+        "petal_size":3.2398266264,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.3213281882,
+        "height":90.4993335864,
+        "soil_quality":5.1501113736,
+        "petal_colour":"pink",
+        "petal_size":1.7034872171,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.7512030241,
+        "height":96.215169349,
+        "soil_quality":3.4830648574,
+        "petal_colour":"pink",
+        "petal_size":2.8776236304,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.1061773798,
+        "height":275.9744933244,
+        "soil_quality":4.2716922394,
+        "petal_colour":"white",
+        "petal_size":4.079250926,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.0231171162,
+        "height":20.1063974858,
+        "soil_quality":4.3584815222,
+        "petal_colour":"pink",
+        "petal_size":3.1588014615,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.4950974201,
+        "height":24.539988395,
+        "soil_quality":5.728610074,
+        "petal_colour":"white",
+        "petal_size":5.2798497466,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.1760465715,
+        "height":233.3028140751,
+        "soil_quality":5.5377564554,
+        "petal_colour":"white",
+        "petal_size":5.3619102592,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.6688583788,
+        "height":31.8507705521,
+        "soil_quality":3.9657393288,
+        "petal_colour":"pink",
+        "petal_size":3.2008235553,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.1649805842,
+        "height":3.3091316247,
+        "soil_quality":4.8001482539,
+        "petal_colour":"white",
+        "petal_size":3.1782147324,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.468346134,
+        "height":67.8420396278,
+        "soil_quality":4.8627900399,
+        "petal_colour":"white",
+        "petal_size":4.5399821705,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3468814647,
+        "height":13.0945419716,
+        "soil_quality":3.532091992,
+        "petal_colour":"pink",
+        "petal_size":2.8073334903,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.0608676248,
+        "height":281.2494704175,
+        "soil_quality":5.3912358505,
+        "petal_colour":"white",
+        "petal_size":5.4649875133,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.02398355,
+        "height":0.6375387046,
+        "soil_quality":4.3234454551,
+        "petal_colour":"white",
+        "petal_size":4.5252074461,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.8268683624,
+        "height":58.1689029991,
+        "soil_quality":4.6136901393,
+        "petal_colour":"white",
+        "petal_size":3.2266867872,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.2559880979,
+        "height":107.5418274265,
+        "soil_quality":3.400044184,
+        "petal_colour":"white",
+        "petal_size":2.1254625962,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.4372349737,
+        "height":105.6634993772,
+        "soil_quality":4.2514760089,
+        "petal_colour":"white",
+        "petal_size":2.6891871432,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.3659388891,
+        "height":69.5388420205,
+        "soil_quality":3.0404934302,
+        "petal_colour":"white",
+        "petal_size":1.9983977112,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.0294142152,
+        "height":50.4672005887,
+        "soil_quality":3.0451295799,
+        "petal_colour":"white",
+        "petal_size":2.9334314575,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5843396502,
+        "height":217.8981754404,
+        "soil_quality":3.0701145733,
+        "petal_colour":"white",
+        "petal_size":2.9669495522,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.5200365946,
+        "height":60.3776974277,
+        "soil_quality":3.6062118443,
+        "petal_colour":"white",
+        "petal_size":2.335688097,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.7675439091,
+        "height":54.3043237051,
+        "soil_quality":3.5319907574,
+        "petal_colour":"white",
+        "petal_size":2.1122842035,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.793147624,
+        "height":126.8000361165,
+        "soil_quality":3.8333420467,
+        "petal_colour":"white",
+        "petal_size":3.6098315518,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.7992927977,
+        "height":33.593227597,
+        "soil_quality":3.4581509178,
+        "petal_colour":"white",
+        "petal_size":3.6122186204,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.7324529451,
+        "height":124.3761898435,
+        "soil_quality":3.6614015639,
+        "petal_colour":"white",
+        "petal_size":2.6394980841,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.8088521289,
+        "height":125.3249574619,
+        "soil_quality":5.7229547634,
+        "petal_colour":"pink",
+        "petal_size":1.7207484689,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.1495960206,
+        "height":42.4342136168,
+        "soil_quality":3.9262879077,
+        "petal_colour":"white",
+        "petal_size":2.2680110472,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.952850015,
+        "height":33.5311470152,
+        "soil_quality":4.0000690329,
+        "petal_colour":"white",
+        "petal_size":3.7260485625,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.1542613483,
+        "height":3.8480660868,
+        "soil_quality":5.7374613781,
+        "petal_colour":"white",
+        "petal_size":3.6351010418,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.2295918701,
+        "height":11.8984950378,
+        "soil_quality":5.8314538134,
+        "petal_colour":"pink",
+        "petal_size":3.9510658802,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.3417370858,
+        "height":30.9300705818,
+        "soil_quality":4.2368084497,
+        "petal_colour":"pink",
+        "petal_size":2.8917398284,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9532936767,
+        "height":442.8114302915,
+        "soil_quality":4.6851453499,
+        "petal_colour":"white",
+        "petal_size":4.2250828153,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1992744378,
+        "height":56.1835431258,
+        "soil_quality":5.0598620324,
+        "petal_colour":"pink",
+        "petal_size":3.4050690207,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.9833216757,
+        "height":120.100873516,
+        "soil_quality":5.3871014446,
+        "petal_colour":"white",
+        "petal_size":5.0006163492,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.3190525512,
+        "height":42.0865533671,
+        "soil_quality":3.227139668,
+        "petal_colour":"white",
+        "petal_size":1.5294926392,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.7166342008,
+        "height":23.7749666213,
+        "soil_quality":3.2859325887,
+        "petal_colour":"pink",
+        "petal_size":2.3930909825,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6055751972,
+        "height":60.8367399712,
+        "soil_quality":4.5106047832,
+        "petal_colour":"pink",
+        "petal_size":1.4084628138,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.2952036134,
+        "height":53.4907874894,
+        "soil_quality":4.0433664178,
+        "petal_colour":"white",
+        "petal_size":2.5786281886,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.9616213344,
+        "height":45.8513019044,
+        "soil_quality":4.2093950613,
+        "petal_colour":"pink",
+        "petal_size":1.2037223469,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.5961592368,
+        "height":151.1866889399,
+        "soil_quality":4.1993714511,
+        "petal_colour":"white",
+        "petal_size":3.914978728,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.8722916487,
+        "height":78.1694148961,
+        "soil_quality":4.5260321746,
+        "petal_colour":"pink",
+        "petal_size":2.9535644169,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.671994757,
+        "height":45.5574147204,
+        "soil_quality":3.3737901704,
+        "petal_colour":"white",
+        "petal_size":3.4411233769,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.7833741742,
+        "height":182.4638735,
+        "soil_quality":5.3827805074,
+        "petal_colour":"pink",
+        "petal_size":1.7570052121,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.066040205,
+        "height":176.0843824751,
+        "soil_quality":5.8767678791,
+        "petal_colour":"white",
+        "petal_size":3.687502281,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.5939047771,
+        "height":180.9297953262,
+        "soil_quality":5.0426938478,
+        "petal_colour":"white",
+        "petal_size":3.1270706444,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.37321532,
+        "height":91.3654010184,
+        "soil_quality":4.3110927237,
+        "petal_colour":"white",
+        "petal_size":2.9277309562,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.6098867728,
+        "height":7.341561164,
+        "soil_quality":4.2762767569,
+        "petal_colour":"pink",
+        "petal_size":3.2670126726,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.5336011455,
+        "height":12.3683014783,
+        "soil_quality":5.2961310016,
+        "petal_colour":"white",
+        "petal_size":3.6128315244,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.1962788651,
+        "height":118.5332531394,
+        "soil_quality":4.6221167572,
+        "petal_colour":"white",
+        "petal_size":3.1247603942,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.1809477768,
+        "height":163.828973761,
+        "soil_quality":4.5322883955,
+        "petal_colour":"white",
+        "petal_size":2.8132784833,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.6959987365,
+        "height":14.9495701231,
+        "soil_quality":4.780683808,
+        "petal_colour":"pink",
+        "petal_size":1.5137012084,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.751759155,
+        "height":78.5666109147,
+        "soil_quality":5.2214821325,
+        "petal_colour":"white",
+        "petal_size":4.6990473677,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5918693566,
+        "height":189.9729791729,
+        "soil_quality":3.0054981931,
+        "petal_colour":"white",
+        "petal_size":2.8407108899,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.4329978924,
+        "height":20.3419366183,
+        "soil_quality":5.8129236153,
+        "petal_colour":"pink",
+        "petal_size":3.8834899621,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.7252171398,
+        "height":92.7538315848,
+        "soil_quality":3.2540854101,
+        "petal_colour":"white",
+        "petal_size":3.3494866283,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.9203987358,
+        "height":269.5897620437,
+        "soil_quality":5.8648986746,
+        "petal_colour":"white",
+        "petal_size":5.832616596,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.4400769742,
+        "height":229.8495614858,
+        "soil_quality":4.7164162267,
+        "petal_colour":"white",
+        "petal_size":4.5325441809,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7589368642,
+        "height":186.7602593561,
+        "soil_quality":5.2235166107,
+        "petal_colour":"white",
+        "petal_size":5.2537967136,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.6110727575,
+        "height":72.2064191321,
+        "soil_quality":3.3831765411,
+        "petal_colour":"white",
+        "petal_size":3.5236291704,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.2532349877,
+        "height":63.9218923214,
+        "soil_quality":5.6980236963,
+        "petal_colour":"pink",
+        "petal_size":1.8601965794,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.5083693059,
+        "height":82.7346061223,
+        "soil_quality":4.6075561857,
+        "petal_colour":"white",
+        "petal_size":3.101416543,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.8063004004,
+        "height":37.7401166512,
+        "soil_quality":4.5702279384,
+        "petal_colour":"pink",
+        "petal_size":2.9804454089,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.6332669281,
+        "height":83.309782444,
+        "soil_quality":3.8953276351,
+        "petal_colour":"white",
+        "petal_size":2.4958193922,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.4376769741,
+        "height":102.0046788372,
+        "soil_quality":4.636320458,
+        "petal_colour":"pink",
+        "petal_size":1.3829397379,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.2041253751,
+        "height":39.9533085662,
+        "soil_quality":3.6479860546,
+        "petal_colour":"white",
+        "petal_size":3.1863109438,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1247645838,
+        "height":1.2111608761,
+        "soil_quality":3.1865563779,
+        "petal_colour":"pink",
+        "petal_size":0.6091586692,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.7610624704,
+        "height":123.4711208091,
+        "soil_quality":4.2096345911,
+        "petal_colour":"pink",
+        "petal_size":1.3650367171,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.9246383219,
+        "height":275.3409516853,
+        "soil_quality":5.6029240154,
+        "petal_colour":"white",
+        "petal_size":5.1187045543,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7466262993,
+        "height":117.7166275545,
+        "soil_quality":5.5034238003,
+        "petal_colour":"white",
+        "petal_size":5.3200906874,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6706098567,
+        "height":66.2345424382,
+        "soil_quality":5.908067281,
+        "petal_colour":"pink",
+        "petal_size":3.7760499483,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.6962880265,
+        "height":36.5195185583,
+        "soil_quality":4.0164038833,
+        "petal_colour":"pink",
+        "petal_size":2.8392481133,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.8796359612,
+        "height":53.903841474,
+        "soil_quality":3.2676315053,
+        "petal_colour":"pink",
+        "petal_size":1.2314343478,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.7858021812,
+        "height":146.633542169,
+        "soil_quality":4.5694722219,
+        "petal_colour":"white",
+        "petal_size":4.1005124608,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.1286065557,
+        "height":69.6831085803,
+        "soil_quality":5.9519614186,
+        "petal_colour":"pink",
+        "petal_size":3.9182388052,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.4873197835,
+        "height":380.3207316338,
+        "soil_quality":5.322597822,
+        "petal_colour":"white",
+        "petal_size":5.399614214,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.8191113401,
+        "height":39.5232271121,
+        "soil_quality":3.979772334,
+        "petal_colour":"pink",
+        "petal_size":2.7441798125,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.4129432123,
+        "height":375.6154106558,
+        "soil_quality":4.9869833228,
+        "petal_colour":"white",
+        "petal_size":4.8294519474,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2998460418,
+        "height":97.2303411694,
+        "soil_quality":3.5723199082,
+        "petal_colour":"white",
+        "petal_size":2.1330607437,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.3838974894,
+        "height":471.3966065669,
+        "soil_quality":5.1903498457,
+        "petal_colour":"white",
+        "petal_size":5.4127776635,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.7283710076,
+        "height":190.8716472839,
+        "soil_quality":3.8462579351,
+        "petal_colour":"white",
+        "petal_size":3.7337164713,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.901013698,
+        "height":70.2723929906,
+        "soil_quality":5.6037131661,
+        "petal_colour":"pink",
+        "petal_size":3.6903411665,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.3214153684,
+        "height":179.0655313257,
+        "soil_quality":5.6039832846,
+        "petal_colour":"white",
+        "petal_size":5.2229293298,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.4686546928,
+        "height":433.2926455641,
+        "soil_quality":4.0910631787,
+        "petal_colour":"white",
+        "petal_size":3.8688417767,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6802378996,
+        "height":118.5079903407,
+        "soil_quality":5.3995146614,
+        "petal_colour":"white",
+        "petal_size":3.2724978549,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.621305182,
+        "height":7.1036742697,
+        "soil_quality":3.8745713197,
+        "petal_colour":"pink",
+        "petal_size":3.0713316013,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.9457196035,
+        "height":108.6948029697,
+        "soil_quality":4.2788917986,
+        "petal_colour":"pink",
+        "petal_size":0.9282481016,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.18018975,
+        "height":222.1384511425,
+        "soil_quality":4.3039628871,
+        "petal_colour":"white",
+        "petal_size":4.2386914218,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.9568123728,
+        "height":145.5472919256,
+        "soil_quality":4.0935583373,
+        "petal_colour":"white",
+        "petal_size":4.0143398477,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.9661984303,
+        "height":393.9073225732,
+        "soil_quality":5.8472607314,
+        "petal_colour":"white",
+        "petal_size":5.715766265,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.8626327204,
+        "height":367.8337619983,
+        "soil_quality":5.6586894179,
+        "petal_colour":"white",
+        "petal_size":5.4674329626,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.9562199168,
+        "height":236.2444968269,
+        "soil_quality":3.3891205229,
+        "petal_colour":"white",
+        "petal_size":3.2757411003,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0983750791,
+        "height":154.5461266976,
+        "soil_quality":4.1598437649,
+        "petal_colour":"white",
+        "petal_size":2.5517888391,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.5610918604,
+        "height":2.5062319077,
+        "soil_quality":3.335270349,
+        "petal_colour":"pink",
+        "petal_size":2.4502854976,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.6805613863,
+        "height":300.6191912142,
+        "soil_quality":3.2412885379,
+        "petal_colour":"white",
+        "petal_size":2.8190185802,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.4200581414,
+        "height":19.380934668,
+        "soil_quality":3.6389810755,
+        "petal_colour":"white",
+        "petal_size":2.4972625768,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.7641548793,
+        "height":22.4396223646,
+        "soil_quality":3.084046066,
+        "petal_colour":"pink",
+        "petal_size":1.7673260456,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.1049753944,
+        "height":133.1602170038,
+        "soil_quality":5.1883456552,
+        "petal_colour":"white",
+        "petal_size":5.1327349645,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.5834564585,
+        "height":5.1174221699,
+        "soil_quality":3.0210973188,
+        "petal_colour":"pink",
+        "petal_size":2.068381236,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.7800186607,
+        "height":342.1948407572,
+        "soil_quality":5.1609804256,
+        "petal_colour":"white",
+        "petal_size":4.5927226475,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1155811259,
+        "height":62.9676722495,
+        "soil_quality":3.4924526009,
+        "petal_colour":"white",
+        "petal_size":2.1357027924,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.2044599254,
+        "height":65.19830434,
+        "soil_quality":4.8683668322,
+        "petal_colour":"pink",
+        "petal_size":3.7701615402,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.7008490522,
+        "height":135.8553874642,
+        "soil_quality":3.3330149624,
+        "petal_colour":"white",
+        "petal_size":3.0452125005,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.8051752529,
+        "height":72.7559465565,
+        "soil_quality":5.8695757805,
+        "petal_colour":"white",
+        "petal_size":5.7889153814,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.0842984819,
+        "height":151.8165123821,
+        "soil_quality":3.6279175316,
+        "petal_colour":"white",
+        "petal_size":3.2317813316,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.9697132695,
+        "height":101.8378997423,
+        "soil_quality":4.7121593889,
+        "petal_colour":"pink",
+        "petal_size":3.2758143668,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4925636658,
+        "height":96.2049293635,
+        "soil_quality":3.4861820784,
+        "petal_colour":"pink",
+        "petal_size":1.1383750363,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.8180087716,
+        "height":48.2816671677,
+        "soil_quality":3.9014514979,
+        "petal_colour":"pink",
+        "petal_size":2.6937644466,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9045762115,
+        "height":350.4688840645,
+        "soil_quality":5.7118612758,
+        "petal_colour":"white",
+        "petal_size":3.5347712574,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.301335291,
+        "height":209.9081461211,
+        "soil_quality":5.6134336185,
+        "petal_colour":"pink",
+        "petal_size":2.1143175766,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.5478928941,
+        "height":33.2317167245,
+        "soil_quality":4.2994118923,
+        "petal_colour":"pink",
+        "petal_size":3.0186494671,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.5967810093,
+        "height":237.8030309425,
+        "soil_quality":4.5306597534,
+        "petal_colour":"white",
+        "petal_size":4.5036937324,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.5580131774,
+        "height":31.6056612298,
+        "soil_quality":4.1553974037,
+        "petal_colour":"pink",
+        "petal_size":2.9095133076,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.849517005,
+        "height":5.0734689892,
+        "soil_quality":3.7569633197,
+        "petal_colour":"pink",
+        "petal_size":2.5427804203,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.8397619864,
+        "height":415.1552146802,
+        "soil_quality":5.8490155298,
+        "petal_colour":"white",
+        "petal_size":5.5369335979,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.1830522407,
+        "height":216.2756446804,
+        "soil_quality":3.3145386002,
+        "petal_colour":"white",
+        "petal_size":3.6381247958,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.9204665446,
+        "height":48.4931923286,
+        "soil_quality":3.4348592617,
+        "petal_colour":"pink",
+        "petal_size":1.179280101,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.3219623562,
+        "height":112.7583425505,
+        "soil_quality":3.8973138958,
+        "petal_colour":"white",
+        "petal_size":3.8681716696,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.361795048,
+        "height":1.8788414397,
+        "soil_quality":3.0046969311,
+        "petal_colour":"pink",
+        "petal_size":2.2886974838,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.8031344848,
+        "height":130.3747692826,
+        "soil_quality":3.2563820247,
+        "petal_colour":"white",
+        "petal_size":2.3384078892,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.9289622105,
+        "height":325.4348096334,
+        "soil_quality":3.9829602906,
+        "petal_colour":"white",
+        "petal_size":3.7856281321,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.5390780732,
+        "height":74.2184531046,
+        "soil_quality":4.7261873483,
+        "petal_colour":"pink",
+        "petal_size":1.6241190344,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.875569243,
+        "height":156.9887359854,
+        "soil_quality":4.9751118275,
+        "petal_colour":"white",
+        "petal_size":2.8527959618,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.6900356836,
+        "height":219.5547381642,
+        "soil_quality":4.4954912871,
+        "petal_colour":"pink",
+        "petal_size":1.5805110388,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.303168259,
+        "height":268.7693642731,
+        "soil_quality":4.9705139181,
+        "petal_colour":"white",
+        "petal_size":4.8209882556,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.4671717404,
+        "height":274.6070098286,
+        "soil_quality":5.5899285859,
+        "petal_colour":"white",
+        "petal_size":3.7670133188,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.2060889645,
+        "height":101.8899393043,
+        "soil_quality":4.0459535118,
+        "petal_colour":"white",
+        "petal_size":4.2146809289,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9499428983,
+        "height":117.318184779,
+        "soil_quality":4.0684696626,
+        "petal_colour":"white",
+        "petal_size":3.7742517194,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7357474837,
+        "height":104.3974096303,
+        "soil_quality":5.209200981,
+        "petal_colour":"white",
+        "petal_size":3.4869112222,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.740861031,
+        "height":250.0947788194,
+        "soil_quality":5.378305296,
+        "petal_colour":"white",
+        "petal_size":4.8954619758,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1062701885,
+        "height":28.0104741444,
+        "soil_quality":3.057122095,
+        "petal_colour":"white",
+        "petal_size":2.9498001839,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2906401583,
+        "height":114.1649413683,
+        "soil_quality":4.5547249548,
+        "petal_colour":"white",
+        "petal_size":2.7097511886,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.768466307,
+        "height":49.6273710622,
+        "soil_quality":4.1412399365,
+        "petal_colour":"white",
+        "petal_size":3.8326152702,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.7645271959,
+        "height":20.2372306651,
+        "soil_quality":4.8201864905,
+        "petal_colour":"pink",
+        "petal_size":3.3573630919,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.8084634742,
+        "height":130.2867414346,
+        "soil_quality":3.3651526922,
+        "petal_colour":"white",
+        "petal_size":3.0178388483,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.0812191348,
+        "height":1.8357121327,
+        "soil_quality":5.7263519241,
+        "petal_colour":"pink",
+        "petal_size":2.2102476665,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.6216523369,
+        "height":77.3713918462,
+        "soil_quality":4.8774887687,
+        "petal_colour":"pink",
+        "petal_size":3.4710103155,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9633130172,
+        "height":483.328532338,
+        "soil_quality":5.6740600966,
+        "petal_colour":"white",
+        "petal_size":5.8440672717,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5192527427,
+        "height":36.6512185796,
+        "soil_quality":3.1782284866,
+        "petal_colour":"pink",
+        "petal_size":2.2589505211,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3647587603,
+        "height":59.0500988198,
+        "soil_quality":4.4069629555,
+        "petal_colour":"white",
+        "petal_size":3.9803771603,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1890625767,
+        "height":30.1639651942,
+        "soil_quality":4.2490854816,
+        "petal_colour":"white",
+        "petal_size":4.368482904,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.3164160464,
+        "height":158.1075402075,
+        "soil_quality":5.7715271859,
+        "petal_colour":"pink",
+        "petal_size":1.4393397994,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.6188549039,
+        "height":44.9453178256,
+        "soil_quality":3.0930453613,
+        "petal_colour":"pink",
+        "petal_size":0.8451006103,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.1532945065,
+        "height":51.7908665656,
+        "soil_quality":5.3582714507,
+        "petal_colour":"white",
+        "petal_size":3.6354468645,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.4754485658,
+        "height":110.3386637431,
+        "soil_quality":4.8473402757,
+        "petal_colour":"white",
+        "petal_size":5.3429633493,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0349157769,
+        "height":88.7123223612,
+        "soil_quality":3.4972542215,
+        "petal_colour":"white",
+        "petal_size":2.1649566008,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.2366640094,
+        "height":195.5213717532,
+        "soil_quality":4.9975871163,
+        "petal_colour":"white",
+        "petal_size":4.8149117092,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1645716361,
+        "height":110.3710592867,
+        "soil_quality":3.0982626637,
+        "petal_colour":"white",
+        "petal_size":3.0623629716,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.506008325,
+        "height":19.4403495178,
+        "soil_quality":5.6923631462,
+        "petal_colour":"white",
+        "petal_size":5.5692614562,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.2734090059,
+        "height":93.2105050719,
+        "soil_quality":3.0623537348,
+        "petal_colour":"white",
+        "petal_size":3.0964217524,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.520658221,
+        "height":44.0844448213,
+        "soil_quality":3.8140247906,
+        "petal_colour":"pink",
+        "petal_size":3.0829567767,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.6864032857,
+        "height":11.1351142309,
+        "soil_quality":4.4802764487,
+        "petal_colour":"pink",
+        "petal_size":1.4754781394,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.9639426789,
+        "height":46.2094174387,
+        "soil_quality":5.1973991323,
+        "petal_colour":"pink",
+        "petal_size":4.114345665,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.6740273069,
+        "height":36.2772516844,
+        "soil_quality":5.5605803561,
+        "petal_colour":"white",
+        "petal_size":5.4688293849,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.1966708602,
+        "height":20.4049997021,
+        "soil_quality":3.6170126575,
+        "petal_colour":"pink",
+        "petal_size":1.1245728459,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.2955800268,
+        "height":77.888747114,
+        "soil_quality":4.6081258921,
+        "petal_colour":"white",
+        "petal_size":2.6736192592,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.515779287,
+        "height":30.367845309,
+        "soil_quality":3.6592426756,
+        "petal_colour":"pink",
+        "petal_size":1.3841598634,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.8026146555,
+        "height":233.8107580422,
+        "soil_quality":4.2421059923,
+        "petal_colour":"white",
+        "petal_size":3.7684129116,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.2905054814,
+        "height":78.0701415674,
+        "soil_quality":3.3950573942,
+        "petal_colour":"white",
+        "petal_size":2.4038986387,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3287545263,
+        "height":161.3596725468,
+        "soil_quality":3.7490140326,
+        "petal_colour":"white",
+        "petal_size":3.6192198716,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.3123110749,
+        "height":145.7792527065,
+        "soil_quality":4.8756530498,
+        "petal_colour":"pink",
+        "petal_size":1.3762723774,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.5560581471,
+        "height":28.8704525339,
+        "soil_quality":4.7281167513,
+        "petal_colour":"pink",
+        "petal_size":1.4111639887,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.3459627778,
+        "height":135.1402852207,
+        "soil_quality":3.4363450373,
+        "petal_colour":"white",
+        "petal_size":3.1689084697,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.9333937403,
+        "height":377.8404827147,
+        "soil_quality":5.0824986888,
+        "petal_colour":"white",
+        "petal_size":5.0891711415,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9672870341,
+        "height":76.3971137417,
+        "soil_quality":4.7707749934,
+        "petal_colour":"pink",
+        "petal_size":2.7101972436,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.2973963118,
+        "height":352.7361554638,
+        "soil_quality":3.8462835675,
+        "petal_colour":"white",
+        "petal_size":3.6702212595,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.5775179876,
+        "height":238.0405170291,
+        "soil_quality":3.4733829413,
+        "petal_colour":"white",
+        "petal_size":2.9888760704,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.8960978374,
+        "height":45.4423206768,
+        "soil_quality":5.6041087023,
+        "petal_colour":"pink",
+        "petal_size":3.6233951784,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.116485443,
+        "height":309.5661094507,
+        "soil_quality":4.5265569576,
+        "petal_colour":"white",
+        "petal_size":4.428149242,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2928003766,
+        "height":63.1037210743,
+        "soil_quality":4.1125145489,
+        "petal_colour":"pink",
+        "petal_size":1.1006952169,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.8663834574,
+        "height":82.8089019464,
+        "soil_quality":5.9986239237,
+        "petal_colour":"pink",
+        "petal_size":1.8346629104,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.1189442218,
+        "height":38.3334461242,
+        "soil_quality":3.3334763294,
+        "petal_colour":"white",
+        "petal_size":2.9572725804,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.9313420431,
+        "height":135.3239283271,
+        "soil_quality":4.7644218986,
+        "petal_colour":"white",
+        "petal_size":4.5558242091,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.9466882597,
+        "height":29.269896939,
+        "soil_quality":5.0748344582,
+        "petal_colour":"pink",
+        "petal_size":3.5493095021,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.5492693484,
+        "height":199.3579964785,
+        "soil_quality":3.1170205395,
+        "petal_colour":"white",
+        "petal_size":2.8951888902,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9232975624,
+        "height":143.2684386126,
+        "soil_quality":4.9487089011,
+        "petal_colour":"white",
+        "petal_size":3.2695765097,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.0992703329,
+        "height":89.9122775764,
+        "soil_quality":5.5337223656,
+        "petal_colour":"pink",
+        "petal_size":1.9536542371,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4360005319,
+        "height":108.4672721869,
+        "soil_quality":3.2549332115,
+        "petal_colour":"white",
+        "petal_size":3.4568894728,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.7143988834,
+        "height":288.0932416181,
+        "soil_quality":5.7210202256,
+        "petal_colour":"white",
+        "petal_size":5.3435030279,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.4429759302,
+        "height":162.1094935846,
+        "soil_quality":5.5440290266,
+        "petal_colour":"pink",
+        "petal_size":3.8941685572,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.7679031432,
+        "height":35.4943430015,
+        "soil_quality":3.0484444051,
+        "petal_colour":"pink",
+        "petal_size":1.9040410856,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.0359896583,
+        "height":172.8045935909,
+        "soil_quality":5.0395691844,
+        "petal_colour":"white",
+        "petal_size":4.1770002972,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0838635124,
+        "height":136.9534285442,
+        "soil_quality":4.8616518964,
+        "petal_colour":"white",
+        "petal_size":4.6620016113,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.1861279694,
+        "height":41.0422612512,
+        "soil_quality":4.6943074414,
+        "petal_colour":"pink",
+        "petal_size":1.5441627377,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.3614455754,
+        "height":178.0510953971,
+        "soil_quality":3.81726314,
+        "petal_colour":"white",
+        "petal_size":3.7365412893,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.8591340944,
+        "height":26.4632953842,
+        "soil_quality":3.7313848248,
+        "petal_colour":"white",
+        "petal_size":2.4754824726,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3439850731,
+        "height":98.4079902374,
+        "soil_quality":4.6438423679,
+        "petal_colour":"pink",
+        "petal_size":1.6011269617,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.8671368371,
+        "height":30.8615848502,
+        "soil_quality":4.7420362491,
+        "petal_colour":"pink",
+        "petal_size":3.5466923747,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9107244831,
+        "height":69.0384853525,
+        "soil_quality":3.358516694,
+        "petal_colour":"pink",
+        "petal_size":0.6892477935,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.4392587044,
+        "height":98.0278712253,
+        "soil_quality":4.2567583492,
+        "petal_colour":"pink",
+        "petal_size":1.1280743416,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.4416644603,
+        "height":81.6693440986,
+        "soil_quality":3.2147798514,
+        "petal_colour":"pink",
+        "petal_size":2.1423042732,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.3552673607,
+        "height":121.0603882252,
+        "soil_quality":5.8834264683,
+        "petal_colour":"white",
+        "petal_size":3.6860795512,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.2721853188,
+        "height":96.6369983751,
+        "soil_quality":5.8348525729,
+        "petal_colour":"white",
+        "petal_size":6.0124850625,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.8660897659,
+        "height":328.7053119839,
+        "soil_quality":4.3843050691,
+        "petal_colour":"white",
+        "petal_size":4.369353627,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.7784896437,
+        "height":70.5070834288,
+        "soil_quality":4.9756166819,
+        "petal_colour":"white",
+        "petal_size":3.3277678577,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.1354086091,
+        "height":66.2277437988,
+        "soil_quality":5.4212980356,
+        "petal_colour":"white",
+        "petal_size":5.2065445922,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3333539086,
+        "height":19.8571842113,
+        "soil_quality":5.4073728307,
+        "petal_colour":"pink",
+        "petal_size":2.0201573193,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2854420034,
+        "height":261.9073089157,
+        "soil_quality":5.74063963,
+        "petal_colour":"white",
+        "petal_size":5.1282135576,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0462188747,
+        "height":31.7595049717,
+        "soil_quality":4.260371183,
+        "petal_colour":"pink",
+        "petal_size":3.1077113826,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.5485803125,
+        "height":64.974310046,
+        "soil_quality":5.1915195831,
+        "petal_colour":"pink",
+        "petal_size":1.6042143562,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.0340154483,
+        "height":175.6181507801,
+        "soil_quality":3.782592144,
+        "petal_colour":"white",
+        "petal_size":2.5480623581,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.1263870954,
+        "height":95.613383886,
+        "soil_quality":3.2043403849,
+        "petal_colour":"white",
+        "petal_size":2.1234660665,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.8487223183,
+        "height":326.4849692669,
+        "soil_quality":5.9134615746,
+        "petal_colour":"white",
+        "petal_size":6.1377009488,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.7140218722,
+        "height":55.4239398231,
+        "soil_quality":5.1885385404,
+        "petal_colour":"white",
+        "petal_size":3.1263468668,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.2955420681,
+        "height":225.2541051496,
+        "soil_quality":5.2136408256,
+        "petal_colour":"pink",
+        "petal_size":1.7782625506,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1042613153,
+        "height":1.2470600956,
+        "soil_quality":3.9597569681,
+        "petal_colour":"pink",
+        "petal_size":1.2978873686,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.8604184183,
+        "height":192.6579856774,
+        "soil_quality":3.710305025,
+        "petal_colour":"white",
+        "petal_size":2.399046099,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.0116446539,
+        "height":51.2293693143,
+        "soil_quality":3.1978889049,
+        "petal_colour":"pink",
+        "petal_size":2.2270772385,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.7647334339,
+        "height":15.8812445009,
+        "soil_quality":4.1214030454,
+        "petal_colour":"pink",
+        "petal_size":2.9513940004,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.3326268471,
+        "height":242.0294972091,
+        "soil_quality":3.2850609127,
+        "petal_colour":"white",
+        "petal_size":2.9406848325,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.7256051167,
+        "height":147.7595358014,
+        "soil_quality":3.9789761812,
+        "petal_colour":"pink",
+        "petal_size":1.1172550039,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.3759606221,
+        "height":201.8888270281,
+        "soil_quality":4.3515575865,
+        "petal_colour":"white",
+        "petal_size":3.9483475667,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.3208616913,
+        "height":80.1296772512,
+        "soil_quality":3.5919920689,
+        "petal_colour":"white",
+        "petal_size":2.3878335577,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2472310521,
+        "height":229.0433786743,
+        "soil_quality":5.0869411874,
+        "petal_colour":"white",
+        "petal_size":4.9694614049,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.7483832247,
+        "height":191.9614471905,
+        "soil_quality":5.0022001141,
+        "petal_colour":"pink",
+        "petal_size":1.6855680921,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.3935469697,
+        "height":131.7148425582,
+        "soil_quality":3.9814618998,
+        "petal_colour":"white",
+        "petal_size":2.8528823649,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.84968532,
+        "height":451.3346877695,
+        "soil_quality":4.9542426421,
+        "petal_colour":"white",
+        "petal_size":4.7120924312,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.883969484,
+        "height":163.7724774849,
+        "soil_quality":4.4743464895,
+        "petal_colour":"white",
+        "petal_size":4.2066768425,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.9135789306,
+        "height":46.2561439483,
+        "soil_quality":4.5219454538,
+        "petal_colour":"white",
+        "petal_size":3.2436945453,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.4984969717,
+        "height":6.2816687724,
+        "soil_quality":3.5299755391,
+        "petal_colour":"white",
+        "petal_size":2.5333718359,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3381158556,
+        "height":49.5742135728,
+        "soil_quality":3.735508964,
+        "petal_colour":"pink",
+        "petal_size":2.6289233408,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.2045290402,
+        "height":229.1726334122,
+        "soil_quality":4.8877049675,
+        "petal_colour":"white",
+        "petal_size":2.7731563967,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.8813087289,
+        "height":36.0466986904,
+        "soil_quality":4.1074625758,
+        "petal_colour":"pink",
+        "petal_size":2.725519767,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.8140533056,
+        "height":322.6968582538,
+        "soil_quality":4.0432926595,
+        "petal_colour":"white",
+        "petal_size":4.0178333241,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.5731588559,
+        "height":168.7348708756,
+        "soil_quality":3.1378018739,
+        "petal_colour":"white",
+        "petal_size":3.2727347488,
+        "edible":false,
+        "species":"berrius codiae"
+    }
+]

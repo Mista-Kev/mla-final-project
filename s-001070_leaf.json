@@ -1,0 +1,4502 @@
+[
+    {
+        "age":6.7364897885,
+        "height":273.1472852519,
+        "soil_quality":4.9104143134,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.3577190769,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1861030297,
+        "height":31.0364241493,
+        "soil_quality":3.1339868201,
+        "leaf_shape":"lanceolate",
+        "leaf_size":10.8917725891,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.2481673509,
+        "height":153.6727101243,
+        "soil_quality":4.3146119342,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.8802672666,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.387968689,
+        "height":18.677106567,
+        "soil_quality":5.9165977918,
+        "leaf_shape":"ovate",
+        "leaf_size":20.6576296634,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.8629182053,
+        "height":231.5410202007,
+        "soil_quality":5.5622666089,
+        "leaf_shape":"lanceolate",
+        "leaf_size":25.1700957435,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.1990995378,
+        "height":34.9489350103,
+        "soil_quality":4.4670272149,
+        "leaf_shape":"ovate",
+        "leaf_size":51.4092426508,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.5535771073,
+        "height":117.7734986458,
+        "soil_quality":5.7738069896,
+        "leaf_shape":"ovate",
+        "leaf_size":51.6647645976,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.3960314025,
+        "height":6.499853777,
+        "soil_quality":3.7616940144,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.294335403,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3723852445,
+        "height":216.9168512066,
+        "soil_quality":4.7040610811,
+        "leaf_shape":"ovate",
+        "leaf_size":18.3888852026,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.2705642967,
+        "height":123.6139928617,
+        "soil_quality":5.0049318982,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.9047964966,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.604780562,
+        "height":325.883795808,
+        "soil_quality":4.4076388855,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.6153701893,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.2485877008,
+        "height":106.5650354867,
+        "soil_quality":5.3033406482,
+        "leaf_shape":"ovate",
+        "leaf_size":35.7910759299,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.8293771729,
+        "height":83.3467186316,
+        "soil_quality":4.3626323518,
+        "leaf_shape":"ovate",
+        "leaf_size":25.3370474349,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1485318671,
+        "height":1.7276006689,
+        "soil_quality":4.7389408387,
+        "leaf_shape":"ovate",
+        "leaf_size":47.2129866248,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.0272801833,
+        "height":87.039424161,
+        "soil_quality":4.1528443684,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.6632858526,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2453290749,
+        "height":182.0730838731,
+        "soil_quality":3.2437024859,
+        "leaf_shape":"ovate",
+        "leaf_size":11.6642947272,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.5737408296,
+        "height":23.2105588963,
+        "soil_quality":4.6034877009,
+        "leaf_shape":"ovate",
+        "leaf_size":40.3478216642,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.7955770248,
+        "height":72.413254022,
+        "soil_quality":3.3658478345,
+        "leaf_shape":"ovate",
+        "leaf_size":24.6400525174,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.1277748668,
+        "height":30.2461733479,
+        "soil_quality":4.9878638725,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.9805244808,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.4914003795,
+        "height":18.9554278097,
+        "soil_quality":5.3343761575,
+        "leaf_shape":"ovate",
+        "leaf_size":17.6817751292,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.9299759138,
+        "height":134.086939227,
+        "soil_quality":4.8298527652,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.0320315862,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.3787589461,
+        "height":89.029243242,
+        "soil_quality":5.9775309429,
+        "leaf_shape":"ovate",
+        "leaf_size":52.4229069884,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.6981941405,
+        "height":112.1520507614,
+        "soil_quality":5.9055895198,
+        "leaf_shape":"ovate",
+        "leaf_size":40.463493413,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.7343874889,
+        "height":96.6712646854,
+        "soil_quality":5.5100491142,
+        "leaf_shape":"lanceolate",
+        "leaf_size":26.9537591038,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.8058769057,
+        "height":108.0597980778,
+        "soil_quality":4.125433018,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.775017092,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.6915551505,
+        "height":35.3784300168,
+        "soil_quality":3.4624855028,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.4753527075,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.0824793171,
+        "height":30.9387446365,
+        "soil_quality":5.4271550278,
+        "leaf_shape":"ovate",
+        "leaf_size":54.7002434542,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.1478411744,
+        "height":279.0261418138,
+        "soil_quality":3.1244925394,
+        "leaf_shape":"ovate",
+        "leaf_size":11.0133513216,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.7795497025,
+        "height":74.8724038403,
+        "soil_quality":5.3596790189,
+        "leaf_shape":"ovate",
+        "leaf_size":32.618862252,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.4541050429,
+        "height":136.3209307597,
+        "soil_quality":4.4550997496,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.5099042658,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.9323135942,
+        "height":40.7238740347,
+        "soil_quality":4.6253947582,
+        "leaf_shape":"ovate",
+        "leaf_size":31.5117459458,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.3666583303,
+        "height":69.898482206,
+        "soil_quality":3.681968031,
+        "leaf_shape":"ovate",
+        "leaf_size":11.5207820436,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.5005335866,
+        "height":103.2493666498,
+        "soil_quality":3.1501524736,
+        "leaf_shape":"ovate",
+        "leaf_size":24.9790687533,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2761740594,
+        "height":65.4803375569,
+        "soil_quality":4.8447607416,
+        "leaf_shape":"ovate",
+        "leaf_size":52.6384131095,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.8291120889,
+        "height":316.6706766847,
+        "soil_quality":4.410742538,
+        "leaf_shape":"ovate",
+        "leaf_size":18.139432996,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.0466511218,
+        "height":218.155106448,
+        "soil_quality":5.5831816372,
+        "leaf_shape":"ovate",
+        "leaf_size":17.6265163433,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.2666230543,
+        "height":5.1656947102,
+        "soil_quality":5.1251282636,
+        "leaf_shape":"ovate",
+        "leaf_size":33.0588587999,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.1895720786,
+        "height":150.7473801981,
+        "soil_quality":3.3320032291,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.5196859865,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2175232501,
+        "height":53.347463721,
+        "soil_quality":5.6431064996,
+        "leaf_shape":"ovate",
+        "leaf_size":40.4083594156,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.0521330899,
+        "height":57.5089891553,
+        "soil_quality":4.3016451617,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.7947433877,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.7109684549,
+        "height":21.5932895805,
+        "soil_quality":5.9629564098,
+        "leaf_shape":"ovate",
+        "leaf_size":53.8502694157,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.7629992646,
+        "height":98.33866811,
+        "soil_quality":5.5673052494,
+        "leaf_shape":"ovate",
+        "leaf_size":50.2772573752,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.0055046783,
+        "height":98.320008988,
+        "soil_quality":4.571213537,
+        "leaf_shape":"ovate",
+        "leaf_size":16.8868454449,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6470046258,
+        "height":81.4483351443,
+        "soil_quality":3.4200156931,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.6802348622,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.0096338971,
+        "height":61.4755713463,
+        "soil_quality":3.8540544064,
+        "leaf_shape":"ovate",
+        "leaf_size":24.4410130105,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.7691860083,
+        "height":248.9228688479,
+        "soil_quality":3.7264528872,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.0731337644,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.4675155125,
+        "height":59.0397065521,
+        "soil_quality":4.0652329897,
+        "leaf_shape":"ovate",
+        "leaf_size":36.9908192398,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.6073396501,
+        "height":192.8012085122,
+        "soil_quality":4.6770715823,
+        "leaf_shape":"ovate",
+        "leaf_size":13.8516833652,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.3928047052,
+        "height":38.038076342,
+        "soil_quality":3.0641615297,
+        "leaf_shape":"ovate",
+        "leaf_size":21.7851169052,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.3694838192,
+        "height":111.1694860771,
+        "soil_quality":3.6565279156,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.5797121309,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.5457000146,
+        "height":45.3014225351,
+        "soil_quality":3.6377507876,
+        "leaf_shape":"ovate",
+        "leaf_size":38.7371372112,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.350796816,
+        "height":120.4196928931,
+        "soil_quality":5.0497068015,
+        "leaf_shape":"ovate",
+        "leaf_size":35.1925970562,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.6352215775,
+        "height":100.3252980717,
+        "soil_quality":4.0003537624,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.1298660079,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.0626769262,
+        "height":162.9232335351,
+        "soil_quality":3.5907878256,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.6813116653,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.6831913979,
+        "height":40.8142877114,
+        "soil_quality":5.9200225443,
+        "leaf_shape":"ovate",
+        "leaf_size":52.1372808311,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.3267260381,
+        "height":310.0387114701,
+        "soil_quality":5.6339159501,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.0989999139,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.5102054689,
+        "height":131.5280645176,
+        "soil_quality":5.0843385534,
+        "leaf_shape":"ovate",
+        "leaf_size":33.829872688,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1194405351,
+        "height":3.1166575903,
+        "soil_quality":5.9382585499,
+        "leaf_shape":"ovate",
+        "leaf_size":43.706436086,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.9868182479,
+        "height":53.5983965295,
+        "soil_quality":5.8814133611,
+        "leaf_shape":"lanceolate",
+        "leaf_size":26.3596570404,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.2968618636,
+        "height":76.1212892603,
+        "soil_quality":3.2674632141,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.4978806622,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.4114801519,
+        "height":76.3849514149,
+        "soil_quality":5.0528246277,
+        "leaf_shape":"ovate",
+        "leaf_size":16.620713745,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.621048209,
+        "height":85.7743922237,
+        "soil_quality":3.1613513336,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.3250499055,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.3651250272,
+        "height":202.4023206818,
+        "soil_quality":5.4763540305,
+        "leaf_shape":"ovate",
+        "leaf_size":42.9994734611,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.9511904016,
+        "height":52.4912164437,
+        "soil_quality":4.1116828797,
+        "leaf_shape":"ovate",
+        "leaf_size":40.8154467184,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.1953659383,
+        "height":265.4746710003,
+        "soil_quality":3.989831027,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.225168076,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0140545478,
+        "height":66.3869335143,
+        "soil_quality":3.4260005996,
+        "leaf_shape":"ovate",
+        "leaf_size":29.7015322059,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.7875774734,
+        "height":442.093789617,
+        "soil_quality":5.355190077,
+        "leaf_shape":"ovate",
+        "leaf_size":20.4327654406,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.7117173164,
+        "height":18.8077149811,
+        "soil_quality":4.2775262382,
+        "leaf_shape":"ovate",
+        "leaf_size":42.4918290735,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9082096661,
+        "height":100.9152753568,
+        "soil_quality":5.0190401578,
+        "leaf_shape":"ovate",
+        "leaf_size":30.955415738,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.6997071023,
+        "height":85.8426085913,
+        "soil_quality":3.8108786943,
+        "leaf_shape":"ovate",
+        "leaf_size":34.8153969013,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.1068574125,
+        "height":75.152462618,
+        "soil_quality":4.918758143,
+        "leaf_shape":"ovate",
+        "leaf_size":49.4596082662,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.4827303357,
+        "height":221.2413256659,
+        "soil_quality":4.0146254585,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.856548549,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.0036464481,
+        "height":60.7830684454,
+        "soil_quality":4.6753373424,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.8574119382,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.0473972267,
+        "height":41.2969311237,
+        "soil_quality":5.989703991,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.7859835295,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.9616392711,
+        "height":50.7703902985,
+        "soil_quality":5.5177132924,
+        "leaf_shape":"lanceolate",
+        "leaf_size":25.7049013793,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.736962092,
+        "height":162.5347638264,
+        "soil_quality":4.7500552829,
+        "leaf_shape":"ovate",
+        "leaf_size":33.9874018241,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.6705747188,
+        "height":61.3997014362,
+        "soil_quality":4.5161202786,
+        "leaf_shape":"ovate",
+        "leaf_size":14.9929156639,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.3156393807,
+        "height":196.9909075724,
+        "soil_quality":5.8020675954,
+        "leaf_shape":"lanceolate",
+        "leaf_size":27.3924685897,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.0976279027,
+        "height":27.1681466253,
+        "soil_quality":3.3203203561,
+        "leaf_shape":"ovate",
+        "leaf_size":13.0710121294,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.3080053533,
+        "height":26.2054660591,
+        "soil_quality":4.5309285851,
+        "leaf_shape":"ovate",
+        "leaf_size":32.8843027846,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.531338071,
+        "height":175.9300808188,
+        "soil_quality":5.4641015569,
+        "leaf_shape":"ovate",
+        "leaf_size":38.5774551105,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.8766772562,
+        "height":21.6346785957,
+        "soil_quality":5.9358528244,
+        "leaf_shape":"ovate",
+        "leaf_size":17.2248454606,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.952967673,
+        "height":46.0221224039,
+        "soil_quality":3.3125290022,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.0634864949,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.5887649271,
+        "height":88.9983172779,
+        "soil_quality":3.5255077726,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2306723434,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.9338679044,
+        "height":55.6664127148,
+        "soil_quality":3.6675715312,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.8537866142,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.3258273414,
+        "height":17.7314535301,
+        "soil_quality":3.6878828729,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.8255182557,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.2463990271,
+        "height":127.2811508493,
+        "soil_quality":3.1972302017,
+        "leaf_shape":"ovate",
+        "leaf_size":16.536005141,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.0738042297,
+        "height":149.7743019304,
+        "soil_quality":5.6223385574,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.5750926427,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.5336038324,
+        "height":86.2785736749,
+        "soil_quality":3.2891185377,
+        "leaf_shape":"ovate",
+        "leaf_size":22.3053541232,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.7626823921,
+        "height":220.6719183825,
+        "soil_quality":3.9827729171,
+        "leaf_shape":"ovate",
+        "leaf_size":13.833308504,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.2145785658,
+        "height":106.7334734183,
+        "soil_quality":4.3551461456,
+        "leaf_shape":"ovate",
+        "leaf_size":39.8319403844,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.1802432792,
+        "height":134.6999475441,
+        "soil_quality":5.6132643924,
+        "leaf_shape":"ovate",
+        "leaf_size":36.3887002973,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.223397028,
+        "height":248.4595212719,
+        "soil_quality":3.3890282057,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.2835147261,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1946769027,
+        "height":10.2097457174,
+        "soil_quality":4.849155194,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.5058817901,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.6014520918,
+        "height":14.0730535026,
+        "soil_quality":5.8650975685,
+        "leaf_shape":"ovate",
+        "leaf_size":42.5394531779,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.5852815151,
+        "height":66.3142005481,
+        "soil_quality":3.1393881321,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.1374462483,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.1247654115,
+        "height":19.1190987802,
+        "soil_quality":3.8337781914,
+        "leaf_shape":"ovate",
+        "leaf_size":26.1778943527,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.0319551129,
+        "height":372.7118535685,
+        "soil_quality":4.7389185613,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.2605327963,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.4992912505,
+        "height":224.390906755,
+        "soil_quality":3.8036530074,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.5429702776,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.81760115,
+        "height":172.2144331959,
+        "soil_quality":5.6056144371,
+        "leaf_shape":"ovate",
+        "leaf_size":17.8476118852,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5414999116,
+        "height":150.286210848,
+        "soil_quality":3.1621450703,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.1824915427,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.0743107647,
+        "height":149.1704193661,
+        "soil_quality":3.6897066256,
+        "leaf_shape":"ovate",
+        "leaf_size":13.4453529019,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.4532186634,
+        "height":30.4569782181,
+        "soil_quality":4.3170478823,
+        "leaf_shape":"ovate",
+        "leaf_size":44.5672151954,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6670672616,
+        "height":164.0990028724,
+        "soil_quality":4.0074034954,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.4401433327,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.4026695909,
+        "height":26.6375350485,
+        "soil_quality":3.3967815927,
+        "leaf_shape":"ovate",
+        "leaf_size":27.0908888325,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.9854394258,
+        "height":38.8566057168,
+        "soil_quality":5.9249977144,
+        "leaf_shape":"ovate",
+        "leaf_size":42.0486954682,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.2505174762,
+        "height":98.1955670645,
+        "soil_quality":3.3710925151,
+        "leaf_shape":"ovate",
+        "leaf_size":12.4511070461,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.4717925213,
+        "height":191.5443435637,
+        "soil_quality":3.6218292706,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.0917726511,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.5661622045,
+        "height":109.4781144481,
+        "soil_quality":4.0875793686,
+        "leaf_shape":"ovate",
+        "leaf_size":27.0731372656,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.9374380446,
+        "height":123.49749544,
+        "soil_quality":4.405557142,
+        "leaf_shape":"ovate",
+        "leaf_size":30.3759897661,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1072532285,
+        "height":0.6131191038,
+        "soil_quality":4.8797154694,
+        "leaf_shape":"ovate",
+        "leaf_size":43.5181053875,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.6160954893,
+        "height":44.3872502229,
+        "soil_quality":4.9935090655,
+        "leaf_shape":"ovate",
+        "leaf_size":43.1378675872,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.5547241087,
+        "height":92.4251042042,
+        "soil_quality":3.6286827407,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.1429631638,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.5230965663,
+        "height":147.8332783827,
+        "soil_quality":5.5954750719,
+        "leaf_shape":"ovate",
+        "leaf_size":30.413924765,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.020989883,
+        "height":108.1701173089,
+        "soil_quality":5.4569866222,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.4858115731,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.2578246425,
+        "height":19.9438255366,
+        "soil_quality":3.3002694838,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.5700437142,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.608741704,
+        "height":65.9317664416,
+        "soil_quality":4.2008247006,
+        "leaf_shape":"ovate",
+        "leaf_size":34.5460305492,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4988121688,
+        "height":107.2518423676,
+        "soil_quality":3.1211697069,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.5785144202,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.3862685308,
+        "height":76.7318328645,
+        "soil_quality":5.3166077783,
+        "leaf_shape":"ovate",
+        "leaf_size":17.6430079792,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0130534918,
+        "height":45.3508341101,
+        "soil_quality":3.5434729068,
+        "leaf_shape":"ovate",
+        "leaf_size":36.4537681988,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.8420055562,
+        "height":12.7300795328,
+        "soil_quality":3.0954210572,
+        "leaf_shape":"ovate",
+        "leaf_size":15.7871444109,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.8188385936,
+        "height":111.2685835017,
+        "soil_quality":5.6031932194,
+        "leaf_shape":"ovate",
+        "leaf_size":36.0528547706,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3176564838,
+        "height":46.4942588689,
+        "soil_quality":4.7326343283,
+        "leaf_shape":"ovate",
+        "leaf_size":17.0243969639,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.4577686857,
+        "height":31.5289496323,
+        "soil_quality":3.0600491795,
+        "leaf_shape":"ovate",
+        "leaf_size":9.5476789683,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.104568413,
+        "height":140.96668969,
+        "soil_quality":5.191699516,
+        "leaf_shape":"lanceolate",
+        "leaf_size":26.3207653886,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.5689456797,
+        "height":14.0502161142,
+        "soil_quality":4.7141771311,
+        "leaf_shape":"ovate",
+        "leaf_size":15.9612561493,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.4821357006,
+        "height":226.1681029923,
+        "soil_quality":4.7425092622,
+        "leaf_shape":"ovate",
+        "leaf_size":12.4234572584,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.1768240344,
+        "height":197.7622296478,
+        "soil_quality":4.4653992462,
+        "leaf_shape":"ovate",
+        "leaf_size":14.8219717573,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.9470105088,
+        "height":47.1241327069,
+        "soil_quality":5.3832178719,
+        "leaf_shape":"ovate",
+        "leaf_size":36.8466174192,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.2733099278,
+        "height":62.9050249383,
+        "soil_quality":3.6823528009,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.4868705646,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.0109619028,
+        "height":139.6673668357,
+        "soil_quality":4.0202012381,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.892524512,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.0893345002,
+        "height":330.2378822791,
+        "soil_quality":4.5468907023,
+        "leaf_shape":"ovate",
+        "leaf_size":13.6690039696,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.0516193457,
+        "height":553.2838211507,
+        "soil_quality":5.8804166775,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.0292321298,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.4149268187,
+        "height":102.778101232,
+        "soil_quality":3.0424491136,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.5611154675,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0045461425,
+        "height":172.4140343454,
+        "soil_quality":3.7505136824,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.7330789921,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6236265175,
+        "height":176.801804391,
+        "soil_quality":4.509735748,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.0691273869,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.5499671184,
+        "height":54.5559304001,
+        "soil_quality":4.4192988278,
+        "leaf_shape":"ovate",
+        "leaf_size":39.2518034801,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.3806052446,
+        "height":252.273968032,
+        "soil_quality":4.8979159964,
+        "leaf_shape":"lanceolate",
+        "leaf_size":24.9106879362,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.9640690287,
+        "height":36.1134131224,
+        "soil_quality":4.8454595143,
+        "leaf_shape":"ovate",
+        "leaf_size":28.5453028067,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.8629597629,
+        "height":286.4767079942,
+        "soil_quality":4.8511407358,
+        "leaf_shape":"ovate",
+        "leaf_size":17.4051406439,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.2070215205,
+        "height":103.1911070311,
+        "soil_quality":5.0018927082,
+        "leaf_shape":"ovate",
+        "leaf_size":31.2698497185,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.5810638537,
+        "height":113.3436454921,
+        "soil_quality":4.7652826109,
+        "leaf_shape":"lanceolate",
+        "leaf_size":25.3682275147,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.0635240225,
+        "height":198.0659543966,
+        "soil_quality":3.2938151026,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.7948031182,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.0824019066,
+        "height":155.6091431094,
+        "soil_quality":5.4045782857,
+        "leaf_shape":"ovate",
+        "leaf_size":15.158721174,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.0021175835,
+        "height":135.6227317369,
+        "soil_quality":5.1549072438,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.0459966194,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0602140288,
+        "height":319.1803683666,
+        "soil_quality":4.3582328315,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.1051863473,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0344501411,
+        "height":64.9486249626,
+        "soil_quality":3.5859691761,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.4919122213,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.8848590006,
+        "height":7.9722673614,
+        "soil_quality":4.1112846767,
+        "leaf_shape":"ovate",
+        "leaf_size":34.7540386424,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3039291151,
+        "height":15.3792243627,
+        "soil_quality":4.6682604441,
+        "leaf_shape":"ovate",
+        "leaf_size":28.357788868,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.888977203,
+        "height":54.0725819161,
+        "soil_quality":3.2410147468,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.6057865382,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.6716084618,
+        "height":79.2303160686,
+        "soil_quality":5.1611858748,
+        "leaf_shape":"ovate",
+        "leaf_size":31.5774885602,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.0188601471,
+        "height":225.8951225672,
+        "soil_quality":5.8670514874,
+        "leaf_shape":"ovate",
+        "leaf_size":19.7237737926,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.9193836596,
+        "height":95.2500077278,
+        "soil_quality":3.825079521,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.3678000417,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5513764212,
+        "height":119.5962917283,
+        "soil_quality":3.3985840969,
+        "leaf_shape":"ovate",
+        "leaf_size":23.9500184585,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.9472927382,
+        "height":31.686337085,
+        "soil_quality":4.8190856827,
+        "leaf_shape":"ovate",
+        "leaf_size":14.3842634792,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.1855207551,
+        "height":61.5303164063,
+        "soil_quality":3.8119399375,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.8898871827,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.2636134299,
+        "height":232.6528754237,
+        "soil_quality":3.6632495422,
+        "leaf_shape":"ovate",
+        "leaf_size":12.2431499041,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.6803954705,
+        "height":93.0364504732,
+        "soil_quality":4.0114563187,
+        "leaf_shape":"ovate",
+        "leaf_size":12.0536063151,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2036404162,
+        "height":92.4351601763,
+        "soil_quality":4.5888528956,
+        "leaf_shape":"ovate",
+        "leaf_size":31.0538965799,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.4318024659,
+        "height":126.2007178138,
+        "soil_quality":4.5194053134,
+        "leaf_shape":"ovate",
+        "leaf_size":46.4694065176,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6395121805,
+        "height":94.9169017738,
+        "soil_quality":4.3058079172,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.4448181074,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.8350060736,
+        "height":287.7466219459,
+        "soil_quality":5.2629104642,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.9961585351,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3956170688,
+        "height":9.782500912,
+        "soil_quality":3.441181118,
+        "leaf_shape":"ovate",
+        "leaf_size":34.3608254743,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.1466035002,
+        "height":155.4668460226,
+        "soil_quality":4.1438405609,
+        "leaf_shape":"ovate",
+        "leaf_size":13.5194046532,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.5896153582,
+        "height":118.6342081256,
+        "soil_quality":5.8965677998,
+        "leaf_shape":"ovate",
+        "leaf_size":37.3665928085,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.2330672962,
+        "height":20.4086038018,
+        "soil_quality":5.3918844829,
+        "leaf_shape":"ovate",
+        "leaf_size":33.5334604361,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.644343886,
+        "height":257.7294113173,
+        "soil_quality":5.5651291802,
+        "leaf_shape":"ovate",
+        "leaf_size":20.819450475,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.1971963048,
+        "height":82.0803993102,
+        "soil_quality":3.555423178,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.7005535391,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.3479381642,
+        "height":244.8523502666,
+        "soil_quality":3.6553688392,
+        "leaf_shape":"ovate",
+        "leaf_size":11.8018986728,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.8966967655,
+        "height":237.519646723,
+        "soil_quality":3.3326258363,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.5804555008,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0527117264,
+        "height":167.5190513886,
+        "soil_quality":4.3144620756,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.9812740896,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.4911525758,
+        "height":44.5337733269,
+        "soil_quality":5.9718212841,
+        "leaf_shape":"lanceolate",
+        "leaf_size":27.11297894,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.9503652483,
+        "height":162.5530316798,
+        "soil_quality":3.6096465809,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.160153736,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.7500010836,
+        "height":381.215106673,
+        "soil_quality":3.8224465795,
+        "leaf_shape":"ovate",
+        "leaf_size":12.4303036834,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.7690190089,
+        "height":124.2728196181,
+        "soil_quality":4.8568758523,
+        "leaf_shape":"ovate",
+        "leaf_size":27.8088030606,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.9790651604,
+        "height":114.725719761,
+        "soil_quality":5.0117468139,
+        "leaf_shape":"lanceolate",
+        "leaf_size":25.8000042709,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3718248895,
+        "height":85.8271698536,
+        "soil_quality":3.2032472462,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.9460059396,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.3739045791,
+        "height":126.5028515272,
+        "soil_quality":5.6195474359,
+        "leaf_shape":"ovate",
+        "leaf_size":19.5956945387,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.8265074275,
+        "height":98.071333695,
+        "soil_quality":5.2767932698,
+        "leaf_shape":"ovate",
+        "leaf_size":53.8168473176,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6902605503,
+        "height":117.0276156265,
+        "soil_quality":4.1268894332,
+        "leaf_shape":"ovate",
+        "leaf_size":13.9156632603,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.1086782738,
+        "height":118.0567721443,
+        "soil_quality":4.595447819,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.7253401659,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.1465354354,
+        "height":98.77779375,
+        "soil_quality":5.7230068057,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.1827289008,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.044077884,
+        "height":29.0402878082,
+        "soil_quality":4.9709668518,
+        "leaf_shape":"ovate",
+        "leaf_size":43.0292754654,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.9781521665,
+        "height":47.7692727942,
+        "soil_quality":4.2922884624,
+        "leaf_shape":"ovate",
+        "leaf_size":39.7155201736,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.8951207326,
+        "height":40.7241512282,
+        "soil_quality":5.0832280918,
+        "leaf_shape":"ovate",
+        "leaf_size":39.5124926969,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.0183430357,
+        "height":43.6606249007,
+        "soil_quality":3.0985245422,
+        "leaf_shape":"ovate",
+        "leaf_size":30.1489150794,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.9785412816,
+        "height":197.6254946808,
+        "soil_quality":5.2958960812,
+        "leaf_shape":"ovate",
+        "leaf_size":34.1329274057,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.7810142329,
+        "height":150.0425818756,
+        "soil_quality":3.9511691643,
+        "leaf_shape":"ovate",
+        "leaf_size":28.1038155414,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.6835965476,
+        "height":363.8076667456,
+        "soil_quality":5.7799811083,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.5208455691,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.4727803687,
+        "height":5.2993967332,
+        "soil_quality":3.601145256,
+        "leaf_shape":"ovate",
+        "leaf_size":33.5280940475,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.2629954513,
+        "height":8.0115428172,
+        "soil_quality":4.2179154775,
+        "leaf_shape":"ovate",
+        "leaf_size":38.5800993788,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.8513035683,
+        "height":56.1061171617,
+        "soil_quality":3.0442977505,
+        "leaf_shape":"ovate",
+        "leaf_size":10.0906664841,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.1141779213,
+        "height":183.4075734032,
+        "soil_quality":5.9447530882,
+        "leaf_shape":"ovate",
+        "leaf_size":48.1720878681,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9997549367,
+        "height":139.3890217009,
+        "soil_quality":3.1238004049,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.4126284604,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.6111465084,
+        "height":10.663172473,
+        "soil_quality":4.9101603451,
+        "leaf_shape":"ovate",
+        "leaf_size":32.1810600765,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.9341054214,
+        "height":357.1106960008,
+        "soil_quality":4.3965235794,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.3828210256,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.8698730297,
+        "height":22.7548319247,
+        "soil_quality":3.103451395,
+        "leaf_shape":"ovate",
+        "leaf_size":19.9343418631,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3185306051,
+        "height":10.9842343641,
+        "soil_quality":3.4702905177,
+        "leaf_shape":"ovate",
+        "leaf_size":35.7793222097,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.951757519,
+        "height":41.368654881,
+        "soil_quality":3.3631262487,
+        "leaf_shape":"ovate",
+        "leaf_size":33.3993247774,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.4836238318,
+        "height":68.8930322137,
+        "soil_quality":5.1837317573,
+        "leaf_shape":"ovate",
+        "leaf_size":31.9541461436,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2910685236,
+        "height":173.0701828728,
+        "soil_quality":4.9715015513,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.3119550302,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.0196092231,
+        "height":34.2357017269,
+        "soil_quality":3.7511529891,
+        "leaf_shape":"ovate",
+        "leaf_size":28.2364771661,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.4001010337,
+        "height":10.8219680931,
+        "soil_quality":5.3856959936,
+        "leaf_shape":"ovate",
+        "leaf_size":18.1333759771,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.6091474868,
+        "height":127.4595401864,
+        "soil_quality":4.1985942451,
+        "leaf_shape":"ovate",
+        "leaf_size":27.174054609,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.6241465172,
+        "height":174.2254394447,
+        "soil_quality":5.4614733362,
+        "leaf_shape":"ovate",
+        "leaf_size":18.5861155232,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0047055297,
+        "height":230.112579067,
+        "soil_quality":4.5083566527,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.0550801136,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.076371558,
+        "height":19.7181308536,
+        "soil_quality":5.7110932355,
+        "leaf_shape":"ovate",
+        "leaf_size":51.357825417,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.934495453,
+        "height":126.1429712499,
+        "soil_quality":5.0570593174,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.8136167592,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.01478447,
+        "height":81.6397894384,
+        "soil_quality":5.4524778962,
+        "leaf_shape":"ovate",
+        "leaf_size":45.4911510499,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.1163210118,
+        "height":33.2654628114,
+        "soil_quality":4.4491965773,
+        "leaf_shape":"ovate",
+        "leaf_size":29.6540882186,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4284610296,
+        "height":70.29246669,
+        "soil_quality":3.3940323496,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.9140544749,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1523644554,
+        "height":2.6879912111,
+        "soil_quality":5.3774699741,
+        "leaf_shape":"lanceolate",
+        "leaf_size":24.1059938544,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.951926564,
+        "height":283.8746855202,
+        "soil_quality":3.4544512905,
+        "leaf_shape":"ovate",
+        "leaf_size":12.7959428233,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.8396492693,
+        "height":23.2118136329,
+        "soil_quality":3.0967712478,
+        "leaf_shape":"ovate",
+        "leaf_size":21.8494910109,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.9008712193,
+        "height":146.7277946086,
+        "soil_quality":3.226585372,
+        "leaf_shape":"ovate",
+        "leaf_size":16.5356835698,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.7628366609,
+        "height":11.7820373632,
+        "soil_quality":5.9924971294,
+        "leaf_shape":"ovate",
+        "leaf_size":40.0631709169,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.6281931168,
+        "height":20.3356412792,
+        "soil_quality":4.7069835837,
+        "leaf_shape":"ovate",
+        "leaf_size":17.8881851106,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.5815367866,
+        "height":26.0655830944,
+        "soil_quality":3.6320744122,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2925526411,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3494906944,
+        "height":282.7372386695,
+        "soil_quality":4.4430501205,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.1051637159,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0580045689,
+        "height":90.004749918,
+        "soil_quality":4.4679484931,
+        "leaf_shape":"ovate",
+        "leaf_size":49.3127256531,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.0636481275,
+        "height":40.1885704093,
+        "soil_quality":5.65680543,
+        "leaf_shape":"ovate",
+        "leaf_size":22.9380238325,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.4403244533,
+        "height":212.4640119808,
+        "soil_quality":5.9379747518,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.1477111332,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.7134713496,
+        "height":101.5501490323,
+        "soil_quality":4.1581468408,
+        "leaf_shape":"ovate",
+        "leaf_size":29.5757091192,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.6791370752,
+        "height":82.3150453918,
+        "soil_quality":3.036716814,
+        "leaf_shape":"ovate",
+        "leaf_size":22.1921415921,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.4680872376,
+        "height":96.8381744443,
+        "soil_quality":5.0758460282,
+        "leaf_shape":"ovate",
+        "leaf_size":36.8099058421,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.9767472186,
+        "height":110.4827882192,
+        "soil_quality":3.7024384537,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.8083291355,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3766326971,
+        "height":173.9632665182,
+        "soil_quality":3.5816664405,
+        "leaf_shape":"ovate",
+        "leaf_size":12.4285911282,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.6200781678,
+        "height":252.7722188492,
+        "soil_quality":5.0479876879,
+        "leaf_shape":"ovate",
+        "leaf_size":18.6034220347,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5611914441,
+        "height":375.1879346545,
+        "soil_quality":4.88638881,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.3411273804,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.0029533879,
+        "height":72.3236014052,
+        "soil_quality":5.6223326854,
+        "leaf_shape":"ovate",
+        "leaf_size":51.5880872874,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.2882833359,
+        "height":87.2358309898,
+        "soil_quality":4.0715971981,
+        "leaf_shape":"ovate",
+        "leaf_size":38.7601351372,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.7196925359,
+        "height":158.7804890214,
+        "soil_quality":4.5723139962,
+        "leaf_shape":"ovate",
+        "leaf_size":32.2396811396,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.2959374197,
+        "height":30.517901802,
+        "soil_quality":3.6559050631,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.5530109715,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.6826419371,
+        "height":83.4997856648,
+        "soil_quality":4.4914970307,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.5202063049,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.9883433695,
+        "height":38.8280502546,
+        "soil_quality":5.1932460201,
+        "leaf_shape":"ovate",
+        "leaf_size":48.9292749893,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.4030880632,
+        "height":107.9744041894,
+        "soil_quality":4.0029104214,
+        "leaf_shape":"ovate",
+        "leaf_size":29.5524905462,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.5534982664,
+        "height":60.28186286,
+        "soil_quality":3.6286455453,
+        "leaf_shape":"ovate",
+        "leaf_size":26.242876328,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.8905727742,
+        "height":21.1391090357,
+        "soil_quality":5.0109654027,
+        "leaf_shape":"ovate",
+        "leaf_size":38.6019319272,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.7343741938,
+        "height":49.6374554269,
+        "soil_quality":5.8566276592,
+        "leaf_shape":"ovate",
+        "leaf_size":51.4215535799,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.6906758609,
+        "height":19.1098215411,
+        "soil_quality":5.2476610439,
+        "leaf_shape":"ovate",
+        "leaf_size":18.1666952992,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2617502859,
+        "height":109.8932051647,
+        "soil_quality":3.9710520048,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.2559555861,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.3471041094,
+        "height":181.2796921497,
+        "soil_quality":4.5125506152,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.0280329716,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.7909961255,
+        "height":63.3144915567,
+        "soil_quality":5.5049006619,
+        "leaf_shape":"ovate",
+        "leaf_size":38.1202004232,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.6055184266,
+        "height":94.6578196966,
+        "soil_quality":5.182736183,
+        "leaf_shape":"ovate",
+        "leaf_size":46.4839851521,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.7679839579,
+        "height":112.7684915012,
+        "soil_quality":4.263550292,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.772729337,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.444659744,
+        "height":72.5737775845,
+        "soil_quality":5.6847461227,
+        "leaf_shape":"ovate",
+        "leaf_size":46.7582642048,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.2590040651,
+        "height":48.4980986973,
+        "soil_quality":4.1032300775,
+        "leaf_shape":"ovate",
+        "leaf_size":38.5508201955,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4368107402,
+        "height":142.1138149604,
+        "soil_quality":4.4541587417,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.5347695315,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.5729445489,
+        "height":16.8789821625,
+        "soil_quality":3.7731073838,
+        "leaf_shape":"ovate",
+        "leaf_size":25.2590741232,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.6329294519,
+        "height":35.0835184535,
+        "soil_quality":4.8546083864,
+        "leaf_shape":"ovate",
+        "leaf_size":38.1454815906,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.1575755368,
+        "height":407.4945817664,
+        "soil_quality":5.7451588438,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.3317717983,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.2667370005,
+        "height":310.8375248801,
+        "soil_quality":4.9854465578,
+        "leaf_shape":"ovate",
+        "leaf_size":15.4935483402,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9800013218,
+        "height":189.1596020716,
+        "soil_quality":4.4818125146,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.7736514787,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.9527103953,
+        "height":57.7674587792,
+        "soil_quality":3.8481321423,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.6431994036,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.1923053652,
+        "height":390.201072329,
+        "soil_quality":5.2097593506,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.1757371125,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.5657043066,
+        "height":33.6221579959,
+        "soil_quality":3.4237394285,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.3846399489,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.4200173115,
+        "height":25.1150923473,
+        "soil_quality":4.2353043847,
+        "leaf_shape":"ovate",
+        "leaf_size":33.2745925345,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.642936388,
+        "height":126.0960538941,
+        "soil_quality":4.4276350736,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.3264505043,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.3140992245,
+        "height":192.7129369619,
+        "soil_quality":3.2866947853,
+        "leaf_shape":"ovate",
+        "leaf_size":12.8499730936,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.8677720253,
+        "height":41.1247232988,
+        "soil_quality":4.5031043342,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.3757097667,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.4132292281,
+        "height":36.5827908421,
+        "soil_quality":3.9192528892,
+        "leaf_shape":"ovate",
+        "leaf_size":37.4920645688,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.0912063019,
+        "height":44.7271287778,
+        "soil_quality":4.3691821162,
+        "leaf_shape":"ovate",
+        "leaf_size":16.7865801038,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.0442026904,
+        "height":33.7217460242,
+        "soil_quality":3.6850221505,
+        "leaf_shape":"ovate",
+        "leaf_size":11.4229080814,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.1141228704,
+        "height":167.3763435207,
+        "soil_quality":3.899076455,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.5379622042,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.1269128053,
+        "height":243.7581769858,
+        "soil_quality":4.0181598362,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.7176025357,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.5307986205,
+        "height":228.3790272706,
+        "soil_quality":4.6956084344,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.8494193301,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6898881086,
+        "height":179.3029815211,
+        "soil_quality":4.0190717688,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.3625741265,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.8130674072,
+        "height":84.2166134119,
+        "soil_quality":5.7081806788,
+        "leaf_shape":"ovate",
+        "leaf_size":56.9797488047,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.0641239156,
+        "height":0.7678786186,
+        "soil_quality":4.4230487445,
+        "leaf_shape":"ovate",
+        "leaf_size":38.1554484087,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.0840281489,
+        "height":22.3000497299,
+        "soil_quality":3.0170412503,
+        "leaf_shape":"ovate",
+        "leaf_size":11.0393722032,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2856690318,
+        "height":140.0095688052,
+        "soil_quality":3.123931538,
+        "leaf_shape":"ovate",
+        "leaf_size":11.2272915037,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.7494657845,
+        "height":45.7322096293,
+        "soil_quality":3.2791199098,
+        "leaf_shape":"ovate",
+        "leaf_size":23.058627666,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.0784278246,
+        "height":43.1590116912,
+        "soil_quality":3.3110896611,
+        "leaf_shape":"ovate",
+        "leaf_size":31.1318843496,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.7827048439,
+        "height":10.45696749,
+        "soil_quality":4.3796850049,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.8919095942,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.4042035822,
+        "height":17.0418172898,
+        "soil_quality":5.6994939503,
+        "leaf_shape":"ovate",
+        "leaf_size":20.0903554165,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.1439755809,
+        "height":89.2133092761,
+        "soil_quality":4.4108558538,
+        "leaf_shape":"ovate",
+        "leaf_size":25.8704043335,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2990549715,
+        "height":123.7823577092,
+        "soil_quality":3.0778555831,
+        "leaf_shape":"ovate",
+        "leaf_size":10.5221343904,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.0430373915,
+        "height":171.4300103385,
+        "soil_quality":3.269658207,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.4245340477,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.3213281882,
+        "height":90.4993335864,
+        "soil_quality":5.1501113736,
+        "leaf_shape":"ovate",
+        "leaf_size":35.014656382,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.7512030241,
+        "height":96.215169349,
+        "soil_quality":3.4830648574,
+        "leaf_shape":"ovate",
+        "leaf_size":31.1248435369,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.1061773798,
+        "height":275.9744933244,
+        "soil_quality":4.2716922394,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2601204787,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.0231171162,
+        "height":20.1063974858,
+        "soil_quality":4.3584815222,
+        "leaf_shape":"ovate",
+        "leaf_size":37.8340708102,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.4950974201,
+        "height":24.539988395,
+        "soil_quality":5.728610074,
+        "leaf_shape":"ovate",
+        "leaf_size":22.1219103565,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.1760465715,
+        "height":233.3028140751,
+        "soil_quality":5.5377564554,
+        "leaf_shape":"ovate",
+        "leaf_size":20.9426316113,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.6688583788,
+        "height":31.8507705521,
+        "soil_quality":3.9657393288,
+        "leaf_shape":"ovate",
+        "leaf_size":37.4127808711,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.1649805842,
+        "height":3.3091316247,
+        "soil_quality":4.8001482539,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.7009600157,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.468346134,
+        "height":67.8420396278,
+        "soil_quality":4.8627900399,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.4671339657,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3468814647,
+        "height":13.0945419716,
+        "soil_quality":3.532091992,
+        "leaf_shape":"ovate",
+        "leaf_size":35.1451005782,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.0608676248,
+        "height":281.2494704175,
+        "soil_quality":5.3912358505,
+        "leaf_shape":"ovate",
+        "leaf_size":18.2048278024,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.02398355,
+        "height":0.6375387046,
+        "soil_quality":4.3234454551,
+        "leaf_shape":"ovate",
+        "leaf_size":15.5133702509,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.8268683624,
+        "height":58.1689029991,
+        "soil_quality":4.6136901393,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.0446519213,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.2559880979,
+        "height":107.5418274265,
+        "soil_quality":3.400044184,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.0305780021,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.4372349737,
+        "height":105.6634993772,
+        "soil_quality":4.2514760089,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.903604809,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.3659388891,
+        "height":69.5388420205,
+        "soil_quality":3.0404934302,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.133064251,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.0294142152,
+        "height":50.4672005887,
+        "soil_quality":3.0451295799,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.5924362641,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5843396502,
+        "height":217.8981754404,
+        "soil_quality":3.0701145733,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.383965011,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.5200365946,
+        "height":60.3776974277,
+        "soil_quality":3.6062118443,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.5285768125,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.7675439091,
+        "height":54.3043237051,
+        "soil_quality":3.5319907574,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2828002154,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.793147624,
+        "height":126.8000361165,
+        "soil_quality":3.8333420467,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.1370839003,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.7992927977,
+        "height":33.593227597,
+        "soil_quality":3.4581509178,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.7101924696,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.7324529451,
+        "height":124.3761898435,
+        "soil_quality":3.6614015639,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2290105697,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.8088521289,
+        "height":125.3249574619,
+        "soil_quality":5.7229547634,
+        "leaf_shape":"ovate",
+        "leaf_size":38.7689208593,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.1495960206,
+        "height":42.4342136168,
+        "soil_quality":3.9262879077,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2965326324,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.952850015,
+        "height":33.5311470152,
+        "soil_quality":4.0000690329,
+        "leaf_shape":"ovate",
+        "leaf_size":12.5586164089,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.1542613483,
+        "height":3.8480660868,
+        "soil_quality":5.7374613781,
+        "leaf_shape":"lanceolate",
+        "leaf_size":24.9984868129,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.2295918701,
+        "height":11.8984950378,
+        "soil_quality":5.8314538134,
+        "leaf_shape":"ovate",
+        "leaf_size":48.966510773,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.3417370858,
+        "height":30.9300705818,
+        "soil_quality":4.2368084497,
+        "leaf_shape":"ovate",
+        "leaf_size":36.4443712687,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9532936767,
+        "height":442.8114302915,
+        "soil_quality":4.6851453499,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.8048421296,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1992744378,
+        "height":56.1835431258,
+        "soil_quality":5.0598620324,
+        "leaf_shape":"ovate",
+        "leaf_size":44.2632428477,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.9833216757,
+        "height":120.100873516,
+        "soil_quality":5.3871014446,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.9423592228,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.3190525512,
+        "height":42.0865533671,
+        "soil_quality":3.227139668,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.4444689764,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.7166342008,
+        "height":23.7749666213,
+        "soil_quality":3.2859325887,
+        "leaf_shape":"ovate",
+        "leaf_size":34.9268659943,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.6055751972,
+        "height":60.8367399712,
+        "soil_quality":4.5106047832,
+        "leaf_shape":"ovate",
+        "leaf_size":33.1678390237,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.2952036134,
+        "height":53.4907874894,
+        "soil_quality":4.0433664178,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.6610090567,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.9616213344,
+        "height":45.8513019044,
+        "soil_quality":4.2093950613,
+        "leaf_shape":"ovate",
+        "leaf_size":27.8590997798,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.5961592368,
+        "height":151.1866889399,
+        "soil_quality":4.1993714511,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.4075570029,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.8722916487,
+        "height":78.1694148961,
+        "soil_quality":4.5260321746,
+        "leaf_shape":"ovate",
+        "leaf_size":37.5912424184,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.671994757,
+        "height":45.5574147204,
+        "soil_quality":3.3737901704,
+        "leaf_shape":"ovate",
+        "leaf_size":13.4827782057,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.7833741742,
+        "height":182.4638735,
+        "soil_quality":5.3827805074,
+        "leaf_shape":"ovate",
+        "leaf_size":29.2450438073,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.066040205,
+        "height":176.0843824751,
+        "soil_quality":5.8767678791,
+        "leaf_shape":"lanceolate",
+        "leaf_size":27.294592077,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.5939047771,
+        "height":180.9297953262,
+        "soil_quality":5.0426938478,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.9361022734,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.37321532,
+        "height":91.3654010184,
+        "soil_quality":4.3110927237,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.1246338962,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.6098867728,
+        "height":7.341561164,
+        "soil_quality":4.2762767569,
+        "leaf_shape":"ovate",
+        "leaf_size":37.7613486582,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.5336011455,
+        "height":12.3683014783,
+        "soil_quality":5.2961310016,
+        "leaf_shape":"lanceolate",
+        "leaf_size":24.4275788877,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.1962788651,
+        "height":118.5332531394,
+        "soil_quality":4.6221167572,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.9186606555,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.1809477768,
+        "height":163.828973761,
+        "soil_quality":4.5322883955,
+        "leaf_shape":"lanceolate",
+        "leaf_size":24.6563832952,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.6959987365,
+        "height":14.9495701231,
+        "soil_quality":4.780683808,
+        "leaf_shape":"ovate",
+        "leaf_size":34.3304434648,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.751759155,
+        "height":78.5666109147,
+        "soil_quality":5.2214821325,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.4579698818,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5918693566,
+        "height":189.9729791729,
+        "soil_quality":3.0054981931,
+        "leaf_shape":"ovate",
+        "leaf_size":12.9117979289,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.4329978924,
+        "height":20.3419366183,
+        "soil_quality":5.8129236153,
+        "leaf_shape":"ovate",
+        "leaf_size":64.2686137556,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.7252171398,
+        "height":92.7538315848,
+        "soil_quality":3.2540854101,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.3285550811,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.9203987358,
+        "height":269.5897620437,
+        "soil_quality":5.8648986746,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.4777336656,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.4400769742,
+        "height":229.8495614858,
+        "soil_quality":4.7164162267,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.6291110463,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7589368642,
+        "height":186.7602593561,
+        "soil_quality":5.2235166107,
+        "leaf_shape":"ovate",
+        "leaf_size":17.2649135341,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.6110727575,
+        "height":72.2064191321,
+        "soil_quality":3.3831765411,
+        "leaf_shape":"ovate",
+        "leaf_size":13.630910977,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.2532349877,
+        "height":63.9218923214,
+        "soil_quality":5.6980236963,
+        "leaf_shape":"ovate",
+        "leaf_size":39.2602118073,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.5083693059,
+        "height":82.7346061223,
+        "soil_quality":4.6075561857,
+        "leaf_shape":"lanceolate",
+        "leaf_size":24.0708943011,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.8063004004,
+        "height":37.7401166512,
+        "soil_quality":4.5702279384,
+        "leaf_shape":"ovate",
+        "leaf_size":42.4626572608,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.6332669281,
+        "height":83.309782444,
+        "soil_quality":3.8953276351,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.3036031345,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.4376769741,
+        "height":102.0046788372,
+        "soil_quality":4.636320458,
+        "leaf_shape":"ovate",
+        "leaf_size":31.9866225716,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.2041253751,
+        "height":39.9533085662,
+        "soil_quality":3.6479860546,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.0683663471,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1247645838,
+        "height":1.2111608761,
+        "soil_quality":3.1865563779,
+        "leaf_shape":"ovate",
+        "leaf_size":24.3233744813,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.7610624704,
+        "height":123.4711208091,
+        "soil_quality":4.2096345911,
+        "leaf_shape":"ovate",
+        "leaf_size":28.2839428159,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.9246383219,
+        "height":275.3409516853,
+        "soil_quality":5.6029240154,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.3335562045,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7466262993,
+        "height":117.7166275545,
+        "soil_quality":5.5034238003,
+        "leaf_shape":"ovate",
+        "leaf_size":19.5974297353,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6706098567,
+        "height":66.2345424382,
+        "soil_quality":5.908067281,
+        "leaf_shape":"ovate",
+        "leaf_size":55.9471476071,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.6962880265,
+        "height":36.5195185583,
+        "soil_quality":4.0164038833,
+        "leaf_shape":"ovate",
+        "leaf_size":39.8794540588,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.8796359612,
+        "height":53.903841474,
+        "soil_quality":3.2676315053,
+        "leaf_shape":"ovate",
+        "leaf_size":16.9184178719,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.7858021812,
+        "height":146.633542169,
+        "soil_quality":4.5694722219,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.2483246824,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.1286065557,
+        "height":69.6831085803,
+        "soil_quality":5.9519614186,
+        "leaf_shape":"ovate",
+        "leaf_size":48.3920869774,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.4873197835,
+        "height":380.3207316338,
+        "soil_quality":5.322597822,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.6493234952,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.8191113401,
+        "height":39.5232271121,
+        "soil_quality":3.979772334,
+        "leaf_shape":"ovate",
+        "leaf_size":35.3509970298,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.4129432123,
+        "height":375.6154106558,
+        "soil_quality":4.9869833228,
+        "leaf_shape":"ovate",
+        "leaf_size":17.9747775573,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2998460418,
+        "height":97.2303411694,
+        "soil_quality":3.5723199082,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.2053205984,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.3838974894,
+        "height":471.3966065669,
+        "soil_quality":5.1903498457,
+        "leaf_shape":"ovate",
+        "leaf_size":17.1383246637,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.7283710076,
+        "height":190.8716472839,
+        "soil_quality":3.8462579351,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.9049172319,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.901013698,
+        "height":70.2723929906,
+        "soil_quality":5.6037131661,
+        "leaf_shape":"ovate",
+        "leaf_size":59.1496235002,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.3214153684,
+        "height":179.0655313257,
+        "soil_quality":5.6039832846,
+        "leaf_shape":"ovate",
+        "leaf_size":19.3091246012,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.4686546928,
+        "height":433.2926455641,
+        "soil_quality":4.0910631787,
+        "leaf_shape":"ovate",
+        "leaf_size":12.1839922149,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6802378996,
+        "height":118.5079903407,
+        "soil_quality":5.3995146614,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.6478681321,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.621305182,
+        "height":7.1036742697,
+        "soil_quality":3.8745713197,
+        "leaf_shape":"ovate",
+        "leaf_size":37.9110812084,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.9457196035,
+        "height":108.6948029697,
+        "soil_quality":4.2788917986,
+        "leaf_shape":"ovate",
+        "leaf_size":26.0439743323,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.18018975,
+        "height":222.1384511425,
+        "soil_quality":4.3039628871,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.8632210185,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.9568123728,
+        "height":145.5472919256,
+        "soil_quality":4.0935583373,
+        "leaf_shape":"ovate",
+        "leaf_size":14.5434791359,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.9661984303,
+        "height":393.9073225732,
+        "soil_quality":5.8472607314,
+        "leaf_shape":"ovate",
+        "leaf_size":21.5589716218,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.8626327204,
+        "height":367.8337619983,
+        "soil_quality":5.6586894179,
+        "leaf_shape":"ovate",
+        "leaf_size":15.0091150049,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.9562199168,
+        "height":236.2444968269,
+        "soil_quality":3.3891205229,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.9810634071,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0983750791,
+        "height":154.5461266976,
+        "soil_quality":4.1598437649,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.4596382831,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.5610918604,
+        "height":2.5062319077,
+        "soil_quality":3.335270349,
+        "leaf_shape":"ovate",
+        "leaf_size":31.903589667,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.6805613863,
+        "height":300.6191912142,
+        "soil_quality":3.2412885379,
+        "leaf_shape":"lanceolate",
+        "leaf_size":11.3441010681,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.4200581414,
+        "height":19.380934668,
+        "soil_quality":3.6389810755,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.7254550225,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.7641548793,
+        "height":22.4396223646,
+        "soil_quality":3.084046066,
+        "leaf_shape":"ovate",
+        "leaf_size":29.166530399,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.1049753944,
+        "height":133.1602170038,
+        "soil_quality":5.1883456552,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.1461548464,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.5834564585,
+        "height":5.1174221699,
+        "soil_quality":3.0210973188,
+        "leaf_shape":"ovate",
+        "leaf_size":24.3645659056,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.7800186607,
+        "height":342.1948407572,
+        "soil_quality":5.1609804256,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.7998481035,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1155811259,
+        "height":62.9676722495,
+        "soil_quality":3.4924526009,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.3647701251,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.2044599254,
+        "height":65.19830434,
+        "soil_quality":4.8683668322,
+        "leaf_shape":"ovate",
+        "leaf_size":48.9427597875,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.7008490522,
+        "height":135.8553874642,
+        "soil_quality":3.3330149624,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.8731613646,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.8051752529,
+        "height":72.7559465565,
+        "soil_quality":5.8695757805,
+        "leaf_shape":"ovate",
+        "leaf_size":22.9591882945,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.0842984819,
+        "height":151.8165123821,
+        "soil_quality":3.6279175316,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.1803098811,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.9697132695,
+        "height":101.8378997423,
+        "soil_quality":4.7121593889,
+        "leaf_shape":"ovate",
+        "leaf_size":47.0946888153,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4925636658,
+        "height":96.2049293635,
+        "soil_quality":3.4861820784,
+        "leaf_shape":"ovate",
+        "leaf_size":18.428307186,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.8180087716,
+        "height":48.2816671677,
+        "soil_quality":3.9014514979,
+        "leaf_shape":"ovate",
+        "leaf_size":33.034815818,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9045762115,
+        "height":350.4688840645,
+        "soil_quality":5.7118612758,
+        "leaf_shape":"lanceolate",
+        "leaf_size":25.7226611229,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.301335291,
+        "height":209.9081461211,
+        "soil_quality":5.6134336185,
+        "leaf_shape":"ovate",
+        "leaf_size":34.3293755685,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.5478928941,
+        "height":33.2317167245,
+        "soil_quality":4.2994118923,
+        "leaf_shape":"ovate",
+        "leaf_size":43.6788045257,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.5967810093,
+        "height":237.8030309425,
+        "soil_quality":4.5306597534,
+        "leaf_shape":"ovate",
+        "leaf_size":18.1764775207,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.5580131774,
+        "height":31.6056612298,
+        "soil_quality":4.1553974037,
+        "leaf_shape":"ovate",
+        "leaf_size":36.0969760451,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.849517005,
+        "height":5.0734689892,
+        "soil_quality":3.7569633197,
+        "leaf_shape":"ovate",
+        "leaf_size":36.1512634988,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.8397619864,
+        "height":415.1552146802,
+        "soil_quality":5.8490155298,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.7990208568,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.1830522407,
+        "height":216.2756446804,
+        "soil_quality":3.3145386002,
+        "leaf_shape":"ovate",
+        "leaf_size":12.9278371356,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.9204665446,
+        "height":48.4931923286,
+        "soil_quality":3.4348592617,
+        "leaf_shape":"ovate",
+        "leaf_size":26.0256743739,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.3219623562,
+        "height":112.7583425505,
+        "soil_quality":3.8973138958,
+        "leaf_shape":"ovate",
+        "leaf_size":12.6781356842,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.361795048,
+        "height":1.8788414397,
+        "soil_quality":3.0046969311,
+        "leaf_shape":"ovate",
+        "leaf_size":28.8678889585,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.8031344848,
+        "height":130.3747692826,
+        "soil_quality":3.2563820247,
+        "leaf_shape":"lanceolate",
+        "leaf_size":13.8746446699,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.9289622105,
+        "height":325.4348096334,
+        "soil_quality":3.9829602906,
+        "leaf_shape":"ovate",
+        "leaf_size":13.5075633995,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.5390780732,
+        "height":74.2184531046,
+        "soil_quality":4.7261873483,
+        "leaf_shape":"ovate",
+        "leaf_size":32.009061096,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.875569243,
+        "height":156.9887359854,
+        "soil_quality":4.9751118275,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.8191656319,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.6900356836,
+        "height":219.5547381642,
+        "soil_quality":4.4954912871,
+        "leaf_shape":"ovate",
+        "leaf_size":30.7135085689,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.303168259,
+        "height":268.7693642731,
+        "soil_quality":4.9705139181,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.9766047763,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.4671717404,
+        "height":274.6070098286,
+        "soil_quality":5.5899285859,
+        "leaf_shape":"lanceolate",
+        "leaf_size":27.1584303251,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.2060889645,
+        "height":101.8899393043,
+        "soil_quality":4.0459535118,
+        "leaf_shape":"ovate",
+        "leaf_size":13.4387928763,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9499428983,
+        "height":117.318184779,
+        "soil_quality":4.0684696626,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.2706528435,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7357474837,
+        "height":104.3974096303,
+        "soil_quality":5.209200981,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.1313494178,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.740861031,
+        "height":250.0947788194,
+        "soil_quality":5.378305296,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.2894515449,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1062701885,
+        "height":28.0104741444,
+        "soil_quality":3.057122095,
+        "leaf_shape":"ovate",
+        "leaf_size":11.338558613,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2906401583,
+        "height":114.1649413683,
+        "soil_quality":4.5547249548,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.1237076567,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.768466307,
+        "height":49.6273710622,
+        "soil_quality":4.1412399365,
+        "leaf_shape":"ovate",
+        "leaf_size":14.4117547787,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.7645271959,
+        "height":20.2372306651,
+        "soil_quality":4.8201864905,
+        "leaf_shape":"ovate",
+        "leaf_size":48.3321066132,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.8084634742,
+        "height":130.2867414346,
+        "soil_quality":3.3651526922,
+        "leaf_shape":"ovate",
+        "leaf_size":11.4259500027,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.0812191348,
+        "height":1.8357121327,
+        "soil_quality":5.7263519241,
+        "leaf_shape":"ovate",
+        "leaf_size":34.5319962521,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.6216523369,
+        "height":77.3713918462,
+        "soil_quality":4.8774887687,
+        "leaf_shape":"ovate",
+        "leaf_size":46.7108726109,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9633130172,
+        "height":483.328532338,
+        "soil_quality":5.6740600966,
+        "leaf_shape":"ovate",
+        "leaf_size":20.693135,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5192527427,
+        "height":36.6512185796,
+        "soil_quality":3.1782284866,
+        "leaf_shape":"ovate",
+        "leaf_size":27.6092682754,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3647587603,
+        "height":59.0500988198,
+        "soil_quality":4.4069629555,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.7991990705,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1890625767,
+        "height":30.1639651942,
+        "soil_quality":4.2490854816,
+        "leaf_shape":"ovate",
+        "leaf_size":14.5032841635,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.3164160464,
+        "height":158.1075402075,
+        "soil_quality":5.7715271859,
+        "leaf_shape":"ovate",
+        "leaf_size":33.6410823168,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.6188549039,
+        "height":44.9453178256,
+        "soil_quality":3.0930453613,
+        "leaf_shape":"ovate",
+        "leaf_size":17.3862094394,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.1532945065,
+        "height":51.7908665656,
+        "soil_quality":5.3582714507,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.2882877438,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.4754485658,
+        "height":110.3386637431,
+        "soil_quality":4.8473402757,
+        "leaf_shape":"ovate",
+        "leaf_size":15.1565250027,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0349157769,
+        "height":88.7123223612,
+        "soil_quality":3.4972542215,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.1706219682,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.2366640094,
+        "height":195.5213717532,
+        "soil_quality":4.9975871163,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.4545433325,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1645716361,
+        "height":110.3710592867,
+        "soil_quality":3.0982626637,
+        "leaf_shape":"ovate",
+        "leaf_size":10.961631151,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.506008325,
+        "height":19.4403495178,
+        "soil_quality":5.6923631462,
+        "leaf_shape":"ovate",
+        "leaf_size":18.7195532256,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.2734090059,
+        "height":93.2105050719,
+        "soil_quality":3.0623537348,
+        "leaf_shape":"ovate",
+        "leaf_size":11.5924812651,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.520658221,
+        "height":44.0844448213,
+        "soil_quality":3.8140247906,
+        "leaf_shape":"ovate",
+        "leaf_size":32.8813242964,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.6864032857,
+        "height":11.1351142309,
+        "soil_quality":4.4802764487,
+        "leaf_shape":"ovate",
+        "leaf_size":29.363362273,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.9639426789,
+        "height":46.2094174387,
+        "soil_quality":5.1973991323,
+        "leaf_shape":"ovate",
+        "leaf_size":51.1186577892,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.6740273069,
+        "height":36.2772516844,
+        "soil_quality":5.5605803561,
+        "leaf_shape":"ovate",
+        "leaf_size":22.1159182509,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.1966708602,
+        "height":20.4049997021,
+        "soil_quality":3.6170126575,
+        "leaf_shape":"ovate",
+        "leaf_size":26.6243477835,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.2955800268,
+        "height":77.888747114,
+        "soil_quality":4.6081258921,
+        "leaf_shape":"lanceolate",
+        "leaf_size":21.6194142695,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.515779287,
+        "height":30.367845309,
+        "soil_quality":3.6592426756,
+        "leaf_shape":"ovate",
+        "leaf_size":24.6208447248,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.8026146555,
+        "height":233.8107580422,
+        "soil_quality":4.2421059923,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.4507625595,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.2905054814,
+        "height":78.0701415674,
+        "soil_quality":3.3950573942,
+        "leaf_shape":"lanceolate",
+        "leaf_size":14.606515057,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3287545263,
+        "height":161.3596725468,
+        "soil_quality":3.7490140326,
+        "leaf_shape":"ovate",
+        "leaf_size":12.6249106175,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.3123110749,
+        "height":145.7792527065,
+        "soil_quality":4.8756530498,
+        "leaf_shape":"ovate",
+        "leaf_size":32.6661198524,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.5560581471,
+        "height":28.8704525339,
+        "soil_quality":4.7281167513,
+        "leaf_shape":"ovate",
+        "leaf_size":33.3868908321,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.3459627778,
+        "height":135.1402852207,
+        "soil_quality":3.4363450373,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.5660167689,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.9333937403,
+        "height":377.8404827147,
+        "soil_quality":5.0824986888,
+        "leaf_shape":"ovate",
+        "leaf_size":19.4192489431,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9672870341,
+        "height":76.3971137417,
+        "soil_quality":4.7707749934,
+        "leaf_shape":"ovate",
+        "leaf_size":40.600021267,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.2973963118,
+        "height":352.7361554638,
+        "soil_quality":3.8462835675,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.8079473507,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.5775179876,
+        "height":238.0405170291,
+        "soil_quality":3.4733829413,
+        "leaf_shape":"lanceolate",
+        "leaf_size":9.8450963863,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.8960978374,
+        "height":45.4423206768,
+        "soil_quality":5.6041087023,
+        "leaf_shape":"ovate",
+        "leaf_size":51.5577390487,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.116485443,
+        "height":309.5661094507,
+        "soil_quality":4.5265569576,
+        "leaf_shape":"ovate",
+        "leaf_size":14.8784265364,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2928003766,
+        "height":63.1037210743,
+        "soil_quality":4.1125145489,
+        "leaf_shape":"ovate",
+        "leaf_size":25.7783077018,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.8663834574,
+        "height":82.8089019464,
+        "soil_quality":5.9986239237,
+        "leaf_shape":"ovate",
+        "leaf_size":42.1283318322,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.1189442218,
+        "height":38.3334461242,
+        "soil_quality":3.3334763294,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.1039155482,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.9313420431,
+        "height":135.3239283271,
+        "soil_quality":4.7644218986,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.9428324842,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.9466882597,
+        "height":29.269896939,
+        "soil_quality":5.0748344582,
+        "leaf_shape":"ovate",
+        "leaf_size":45.573055306,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.5492693484,
+        "height":199.3579964785,
+        "soil_quality":3.1170205395,
+        "leaf_shape":"ovate",
+        "leaf_size":11.1145880354,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9232975624,
+        "height":143.2684386126,
+        "soil_quality":4.9487089011,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.8024397198,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.0992703329,
+        "height":89.9122775764,
+        "soil_quality":5.5337223656,
+        "leaf_shape":"ovate",
+        "leaf_size":36.5566462197,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4360005319,
+        "height":108.4672721869,
+        "soil_quality":3.2549332115,
+        "leaf_shape":"ovate",
+        "leaf_size":11.2509814739,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.7143988834,
+        "height":288.0932416181,
+        "soil_quality":5.7210202256,
+        "leaf_shape":"lanceolate",
+        "leaf_size":22.9555325339,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.4429759302,
+        "height":162.1094935846,
+        "soil_quality":5.5440290266,
+        "leaf_shape":"ovate",
+        "leaf_size":61.0012442828,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.7679031432,
+        "height":35.4943430015,
+        "soil_quality":3.0484444051,
+        "leaf_shape":"ovate",
+        "leaf_size":25.9307336984,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.0359896583,
+        "height":172.8045935909,
+        "soil_quality":5.0395691844,
+        "leaf_shape":"lanceolate",
+        "leaf_size":26.1741513042,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0838635124,
+        "height":136.9534285442,
+        "soil_quality":4.8616518964,
+        "leaf_shape":"ovate",
+        "leaf_size":19.8414392439,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.1861279694,
+        "height":41.0422612512,
+        "soil_quality":4.6943074414,
+        "leaf_shape":"ovate",
+        "leaf_size":29.1196087161,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.3614455754,
+        "height":178.0510953971,
+        "soil_quality":3.81726314,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.530171281,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.8591340944,
+        "height":26.4632953842,
+        "soil_quality":3.7313848248,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.8711272869,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3439850731,
+        "height":98.4079902374,
+        "soil_quality":4.6438423679,
+        "leaf_shape":"ovate",
+        "leaf_size":29.6281415122,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.8671368371,
+        "height":30.8615848502,
+        "soil_quality":4.7420362491,
+        "leaf_shape":"ovate",
+        "leaf_size":46.5155614769,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9107244831,
+        "height":69.0384853525,
+        "soil_quality":3.358516694,
+        "leaf_shape":"ovate",
+        "leaf_size":24.2542096909,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.4392587044,
+        "height":98.0278712253,
+        "soil_quality":4.2567583492,
+        "leaf_shape":"ovate",
+        "leaf_size":26.9303213721,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.4416644603,
+        "height":81.6693440986,
+        "soil_quality":3.2147798514,
+        "leaf_shape":"ovate",
+        "leaf_size":23.1293358359,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.3552673607,
+        "height":121.0603882252,
+        "soil_quality":5.8834264683,
+        "leaf_shape":"lanceolate",
+        "leaf_size":26.6705382832,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.2721853188,
+        "height":96.6369983751,
+        "soil_quality":5.8348525729,
+        "leaf_shape":"ovate",
+        "leaf_size":21.0342108772,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.8660897659,
+        "height":328.7053119839,
+        "soil_quality":4.3843050691,
+        "leaf_shape":"ovate",
+        "leaf_size":16.3557615176,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.7784896437,
+        "height":70.5070834288,
+        "soil_quality":4.9756166819,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.023070349,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.1354086091,
+        "height":66.2277437988,
+        "soil_quality":5.4212980356,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.9591227009,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3333539086,
+        "height":19.8571842113,
+        "soil_quality":5.4073728307,
+        "leaf_shape":"ovate",
+        "leaf_size":30.7503759704,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2854420034,
+        "height":261.9073089157,
+        "soil_quality":5.74063963,
+        "leaf_shape":"lanceolate",
+        "leaf_size":23.5227481848,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0462188747,
+        "height":31.7595049717,
+        "soil_quality":4.260371183,
+        "leaf_shape":"ovate",
+        "leaf_size":42.0840846283,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.5485803125,
+        "height":64.974310046,
+        "soil_quality":5.1915195831,
+        "leaf_shape":"ovate",
+        "leaf_size":31.1686125599,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.0340154483,
+        "height":175.6181507801,
+        "soil_quality":3.782592144,
+        "leaf_shape":"lanceolate",
+        "leaf_size":20.3503510167,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.1263870954,
+        "height":95.613383886,
+        "soil_quality":3.2043403849,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.6247944577,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.8487223183,
+        "height":326.4849692669,
+        "soil_quality":5.9134615746,
+        "leaf_shape":"ovate",
+        "leaf_size":22.0043776732,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.7140218722,
+        "height":55.4239398231,
+        "soil_quality":5.1885385404,
+        "leaf_shape":"lanceolate",
+        "leaf_size":18.9147298571,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.2955420681,
+        "height":225.2541051496,
+        "soil_quality":5.2136408256,
+        "leaf_shape":"ovate",
+        "leaf_size":31.8586465252,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1042613153,
+        "height":1.2470600956,
+        "soil_quality":3.9597569681,
+        "leaf_shape":"ovate",
+        "leaf_size":26.265977526,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.8604184183,
+        "height":192.6579856774,
+        "soil_quality":3.710305025,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.5235102795,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.0116446539,
+        "height":51.2293693143,
+        "soil_quality":3.1978889049,
+        "leaf_shape":"ovate",
+        "leaf_size":34.091946248,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.7647334339,
+        "height":15.8812445009,
+        "soil_quality":4.1214030454,
+        "leaf_shape":"ovate",
+        "leaf_size":49.6495959079,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.3326268471,
+        "height":242.0294972091,
+        "soil_quality":3.2850609127,
+        "leaf_shape":"lanceolate",
+        "leaf_size":12.2175487688,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.7256051167,
+        "height":147.7595358014,
+        "soil_quality":3.9789761812,
+        "leaf_shape":"ovate",
+        "leaf_size":27.886341833,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.3759606221,
+        "height":201.8888270281,
+        "soil_quality":4.3515575865,
+        "leaf_shape":"ovate",
+        "leaf_size":17.3394447436,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.3208616913,
+        "height":80.1296772512,
+        "soil_quality":3.5919920689,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.4424082229,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2472310521,
+        "height":229.0433786743,
+        "soil_quality":5.0869411874,
+        "leaf_shape":"ovate",
+        "leaf_size":17.1980263277,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.7483832247,
+        "height":191.9614471905,
+        "soil_quality":5.0022001141,
+        "leaf_shape":"ovate",
+        "leaf_size":29.4832841453,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.3935469697,
+        "height":131.7148425582,
+        "soil_quality":3.9814618998,
+        "leaf_shape":"lanceolate",
+        "leaf_size":17.1234828293,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.84968532,
+        "height":451.3346877695,
+        "soil_quality":4.9542426421,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.42692206,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.883969484,
+        "height":163.7724774849,
+        "soil_quality":4.4743464895,
+        "leaf_shape":"ovate",
+        "leaf_size":13.888962465,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.9135789306,
+        "height":46.2561439483,
+        "soil_quality":4.5219454538,
+        "leaf_shape":"lanceolate",
+        "leaf_size":19.7180010561,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.4984969717,
+        "height":6.2816687724,
+        "soil_quality":3.5299755391,
+        "leaf_shape":"lanceolate",
+        "leaf_size":15.0780885393,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3381158556,
+        "height":49.5742135728,
+        "soil_quality":3.735508964,
+        "leaf_shape":"ovate",
+        "leaf_size":32.9198228452,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.2045290402,
+        "height":229.1726334122,
+        "soil_quality":4.8877049675,
+        "leaf_shape":"lanceolate",
+        "leaf_size":25.3228666802,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.8813087289,
+        "height":36.0466986904,
+        "soil_quality":4.1074625758,
+        "leaf_shape":"ovate",
+        "leaf_size":41.3250395446,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.8140533056,
+        "height":322.6968582538,
+        "soil_quality":4.0432926595,
+        "leaf_shape":"lanceolate",
+        "leaf_size":16.2244179108,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.5731588559,
+        "height":168.7348708756,
+        "soil_quality":3.1378018739,
+        "leaf_shape":"ovate",
+        "leaf_size":11.8849357254,
+        "edible":false,
+        "species":"berrius codiae"
+    }
+]
